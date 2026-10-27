@@ -1,0 +1,1501 @@
+date,time,store,category,sales_amount,payment_method
+2026-02-28,19:36,Miami Beachwalk,Books & Media,50.74,Credit Card
+2026-03-25,15:30,San Francisco Downtown,Groceries & Food,124.28,Debit Card
+2026-01-16,13:19,Austin Tech-Ridge,Electronics,932.86,Credit Card
+2026-01-22,09:12,Dallas Metro,Home & Kitchen,187.02,Cash
+2026-01-01,14:26,Chicago Central,Books & Media,62.72,Credit Card
+2026-03-31,21:02,Denver Galleria,Groceries & Food,135.88,Mobile Pay (UPI/Apple Pay)
+2026-01-24,14:48,New York Flagship,Home & Kitchen,222.87,Credit Card
+2026-01-11,18:42,Dallas Metro,Clothing & Apparel,198.71,Debit Card
+2026-01-06,12:51,New York Flagship,Toys & Games,89.95,Credit Card
+2026-02-05,10:38,Phoenix Desert-Ridge,Health & Beauty,64.64,Credit Card
+2026-02-08,14:51,Austin Tech-Ridge,Groceries & Food,40.89,Credit Card
+2026-01-27,21:57,Los Angeles Plaza,Electronics,1165.19,Credit Card
+2026-03-05,14:21,Atlanta Midtown,Toys & Games,101.09,Credit Card
+2026-02-17,20:20,Dallas Metro,Books & Media,36.69,Credit Card
+2026-02-20,13:08,Miami Beachwalk,Toys & Games,81.76,Cash
+2026-03-15,15:55,Chicago Central,Books & Media,83.48,Mobile Pay (UPI/Apple Pay)
+2026-03-24,17:08,Chicago Central,Clothing & Apparel,150.35,Mobile Pay (UPI/Apple Pay)
+2026-01-07,14:09,Miami Beachwalk,Books & Media,54.96,Credit Card
+2026-01-12,12:12,Los Angeles Plaza,Sports & Outdoors,247.83,Cash
+2026-02-18,19:13,Boston Commons,Sports & Outdoors,69.98,Cash
+2026-03-23,11:55,Dallas Metro,Home & Kitchen,249.26,Credit Card
+2026-02-11,12:51,Chicago Central,Clothing & Apparel,51.11,Cash
+2026-01-23,10:04,Denver Galleria,Clothing & Apparel,86.64,Debit Card
+2026-01-04,14:25,Phoenix Desert-Ridge,Toys & Games,58.64,Cash
+2026-02-04,13:03,Austin Tech-Ridge,Clothing & Apparel,148.70,Cash
+2026-03-13,12:59,Dallas Metro,Electronics,294.07,Cash
+2026-02-15,15:24,Seattle Pike-Place,Electronics,951.98,Cash
+2026-01-07,13:48,Los Angeles Plaza,Sports & Outdoors,141.74,Debit Card
+2026-02-11,13:00,New York Flagship,Books & Media,51.32,Credit Card
+2026-03-13,20:17,San Francisco Downtown,Home & Kitchen,237.40,Mobile Pay (UPI/Apple Pay)
+2026-01-24,20:50,New York Flagship,Sports & Outdoors,180.11,Credit Card
+2026-03-18,10:13,New York Flagship,Books & Media,56.49,Mobile Pay (UPI/Apple Pay)
+2026-01-18,14:14,Denver Galleria,Groceries & Food,91.16,Cash
+2026-01-21,09:47,Miami Beachwalk,Books & Media,44.94,Mobile Pay (UPI/Apple Pay)
+2026-02-24,16:25,Boston Commons,Sports & Outdoors,348.35,Mobile Pay (UPI/Apple Pay)
+2026-01-04,21:10,Denver Galleria,Books & Media,44.64,Cash
+2026-03-04,16:11,Phoenix Desert-Ridge,Books & Media,18.94,Debit Card
+2026-03-30,19:55,Austin Tech-Ridge,Health & Beauty,86.51,Credit Card
+2026-02-03,20:29,Boston Commons,Clothing & Apparel,76.89,Debit Card
+2026-02-18,09:35,Dallas Metro,Groceries & Food,58.21,Mobile Pay (UPI/Apple Pay)
+2026-02-16,21:29,Miami Beachwalk,Groceries & Food,64.91,Cash
+2026-02-12,21:57,San Francisco Downtown,Electronics,738.71,Cash
+2026-01-21,16:23,Austin Tech-Ridge,Books & Media,69.63,Debit Card
+2026-03-04,17:46,Chicago Central,Sports & Outdoors,206.08,Debit Card
+2026-01-12,14:35,Austin Tech-Ridge,Clothing & Apparel,185.34,Credit Card
+2026-01-07,19:46,Chicago Central,Clothing & Apparel,149.50,Debit Card
+2026-03-16,16:52,Chicago Central,Books & Media,81.07,Cash
+2026-01-29,11:43,Denver Galleria,Clothing & Apparel,201.02,Mobile Pay (UPI/Apple Pay)
+2026-02-17,09:16,Chicago Central,Home & Kitchen,60.40,Credit Card
+2026-02-05,19:42,San Francisco Downtown,Electronics,173.39,Debit Card
+2026-02-07,21:27,Phoenix Desert-Ridge,Home & Kitchen,252.83,Credit Card
+2026-02-10,12:21,Chicago Central,Home & Kitchen,254.55,Debit Card
+2026-01-26,09:31,Atlanta Midtown,Toys & Games,109.72,Mobile Pay (UPI/Apple Pay)
+2026-01-02,19:51,Los Angeles Plaza,Home & Kitchen,168.35,Cash
+2026-03-12,17:29,Los Angeles Plaza,Books & Media,27.13,Credit Card
+2026-03-28,18:48,Atlanta Midtown,Electronics,326.55,Cash
+2026-03-25,11:50,Miami Beachwalk,Toys & Games,66.26,Debit Card
+2026-02-23,20:25,Boston Commons,Clothing & Apparel,146.18,Credit Card
+2026-02-17,09:42,Denver Galleria,Sports & Outdoors,240.43,Debit Card
+2026-02-21,20:28,Boston Commons,Clothing & Apparel,197.58,Cash
+2026-03-05,19:36,Dallas Metro,Books & Media,34.74,Mobile Pay (UPI/Apple Pay)
+2026-01-13,10:20,Miami Beachwalk,Clothing & Apparel,175.00,Credit Card
+2026-02-05,21:11,Atlanta Midtown,Groceries & Food,128.83,Cash
+2026-01-10,14:36,Dallas Metro,Sports & Outdoors,74.22,Credit Card
+2026-02-14,13:29,Phoenix Desert-Ridge,Clothing & Apparel,28.83,Cash
+2026-03-26,17:34,Dallas Metro,Books & Media,26.84,Debit Card
+2026-03-20,09:35,Seattle Pike-Place,Books & Media,23.42,Debit Card
+2026-03-03,16:10,New York Flagship,Health & Beauty,122.21,Debit Card
+2026-02-23,17:59,San Francisco Downtown,Groceries & Food,9.00,Cash
+2026-01-24,20:21,New York Flagship,Groceries & Food,20.57,Mobile Pay (UPI/Apple Pay)
+2026-01-09,10:25,Boston Commons,Toys & Games,111.05,Credit Card
+2026-03-09,12:01,Phoenix Desert-Ridge,Health & Beauty,79.16,Cash
+2026-02-15,14:54,San Francisco Downtown,Clothing & Apparel,121.00,Cash
+2026-02-11,15:32,Atlanta Midtown,Clothing & Apparel,206.10,Mobile Pay (UPI/Apple Pay)
+2026-03-11,09:56,Denver Galleria,Sports & Outdoors,228.57,Credit Card
+2026-02-22,17:29,Seattle Pike-Place,Groceries & Food,64.01,Credit Card
+2026-03-23,19:09,San Francisco Downtown,Sports & Outdoors,303.73,Cash
+2026-02-11,10:58,Los Angeles Plaza,Home & Kitchen,279.99,Debit Card
+2026-02-27,20:01,San Francisco Downtown,Books & Media,30.04,Cash
+2026-01-11,18:33,Los Angeles Plaza,Groceries & Food,101.85,Cash
+2026-01-17,19:28,Chicago Central,Clothing & Apparel,152.81,Credit Card
+2026-01-04,21:36,Miami Beachwalk,Home & Kitchen,296.34,Mobile Pay (UPI/Apple Pay)
+2026-01-02,20:00,Atlanta Midtown,Toys & Games,47.61,Mobile Pay (UPI/Apple Pay)
+2026-02-19,19:19,Phoenix Desert-Ridge,Sports & Outdoors,374.57,Debit Card
+2026-03-13,15:47,Miami Beachwalk,Books & Media,65.63,Cash
+2026-01-04,17:32,Phoenix Desert-Ridge,Toys & Games,22.57,Cash
+2026-02-19,11:00,Austin Tech-Ridge,Sports & Outdoors,360.31,Mobile Pay (UPI/Apple Pay)
+2026-01-04,20:40,Atlanta Midtown,Groceries & Food,48.58,Mobile Pay (UPI/Apple Pay)
+2026-03-19,09:25,Atlanta Midtown,Sports & Outdoors,109.60,Cash
+2026-02-22,14:56,Atlanta Midtown,Groceries & Food,107.90,Debit Card
+2026-01-24,13:43,Austin Tech-Ridge,Toys & Games,95.69,Mobile Pay (UPI/Apple Pay)
+2026-01-19,10:08,Phoenix Desert-Ridge,Sports & Outdoors,49.78,Credit Card
+2026-03-02,19:14,Austin Tech-Ridge,Sports & Outdoors,155.28,Credit Card
+2026-02-02,14:08,Atlanta Midtown,Toys & Games,82.29,Mobile Pay (UPI/Apple Pay)
+2026-03-28,20:28,Los Angeles Plaza,Health & Beauty,112.86,Mobile Pay (UPI/Apple Pay)
+2026-01-09,09:42,Austin Tech-Ridge,Toys & Games,73.86,Credit Card
+2026-02-17,21:39,New York Flagship,Sports & Outdoors,324.54,Mobile Pay (UPI/Apple Pay)
+2026-02-16,20:34,San Francisco Downtown,Electronics,457.68,Cash
+2026-01-31,20:54,Seattle Pike-Place,Home & Kitchen,225.46,Mobile Pay (UPI/Apple Pay)
+2026-02-08,14:29,Atlanta Midtown,Toys & Games,96.43,Credit Card
+2026-02-16,16:50,Phoenix Desert-Ridge,Clothing & Apparel,144.24,Credit Card
+2026-03-18,17:19,San Francisco Downtown,Clothing & Apparel,77.18,Debit Card
+2026-02-03,18:11,Seattle Pike-Place,Clothing & Apparel,82.26,Mobile Pay (UPI/Apple Pay)
+2026-02-19,17:26,Dallas Metro,Groceries & Food,104.14,Credit Card
+2026-03-17,14:35,Los Angeles Plaza,Sports & Outdoors,247.85,Credit Card
+2026-02-20,21:22,Austin Tech-Ridge,Electronics,826.99,Cash
+2026-01-28,12:51,Phoenix Desert-Ridge,Clothing & Apparel,133.25,Cash
+2026-03-27,17:58,Austin Tech-Ridge,Home & Kitchen,101.65,Cash
+2026-03-15,16:42,Los Angeles Plaza,Health & Beauty,40.37,Mobile Pay (UPI/Apple Pay)
+2026-03-04,15:50,Los Angeles Plaza,Electronics,900.04,Cash
+2026-01-14,21:15,Atlanta Midtown,Books & Media,18.47,Cash
+2026-02-09,21:51,Chicago Central,Health & Beauty,105.85,Cash
+2026-03-08,19:24,Atlanta Midtown,Health & Beauty,43.15,Credit Card
+2026-01-21,19:49,Denver Galleria,Home & Kitchen,209.41,Credit Card
+2026-01-27,19:44,Dallas Metro,Health & Beauty,91.86,Mobile Pay (UPI/Apple Pay)
+2026-02-02,14:00,Phoenix Desert-Ridge,Books & Media,26.21,Debit Card
+2026-02-27,09:21,Seattle Pike-Place,Electronics,805.80,Cash
+2026-03-22,20:49,New York Flagship,Sports & Outdoors,64.79,Mobile Pay (UPI/Apple Pay)
+2026-01-11,09:37,San Francisco Downtown,Sports & Outdoors,285.86,Cash
+2026-01-03,13:52,Miami Beachwalk,Toys & Games,39.88,Credit Card
+2026-01-10,19:14,San Francisco Downtown,Sports & Outdoors,289.88,Mobile Pay (UPI/Apple Pay)
+2026-02-20,17:48,Los Angeles Plaza,Sports & Outdoors,88.43,Cash
+2026-01-23,19:51,Phoenix Desert-Ridge,Home & Kitchen,276.31,Debit Card
+2026-01-22,18:54,Austin Tech-Ridge,Health & Beauty,129.77,Debit Card
+2026-03-22,09:07,San Francisco Downtown,Health & Beauty,14.69,Debit Card
+2026-01-15,13:18,San Francisco Downtown,Health & Beauty,51.83,Cash
+2026-01-15,16:33,New York Flagship,Electronics,852.16,Credit Card
+2026-03-26,17:17,Chicago Central,Toys & Games,119.24,Debit Card
+2026-03-09,10:14,Boston Commons,Sports & Outdoors,234.54,Credit Card
+2026-01-14,10:27,New York Flagship,Electronics,1019.27,Credit Card
+2026-02-18,16:23,Dallas Metro,Home & Kitchen,133.22,Debit Card
+2026-02-11,12:10,Denver Galleria,Home & Kitchen,58.85,Mobile Pay (UPI/Apple Pay)
+2026-03-29,09:57,Chicago Central,Books & Media,35.52,Cash
+2026-02-05,09:36,Seattle Pike-Place,Electronics,458.52,Debit Card
+2026-01-03,10:36,New York Flagship,Toys & Games,72.18,Debit Card
+2026-02-23,15:47,Los Angeles Plaza,Home & Kitchen,234.32,Mobile Pay (UPI/Apple Pay)
+2026-02-23,21:31,Chicago Central,Home & Kitchen,28.28,Mobile Pay (UPI/Apple Pay)
+2026-03-17,21:14,Boston Commons,Health & Beauty,59.92,Credit Card
+2026-02-18,21:17,Dallas Metro,Home & Kitchen,404.13,Mobile Pay (UPI/Apple Pay)
+2026-02-16,11:34,Miami Beachwalk,Home & Kitchen,344.23,Credit Card
+2026-03-20,21:08,Austin Tech-Ridge,Health & Beauty,57.69,Credit Card
+2026-01-30,19:29,Los Angeles Plaza,Books & Media,19.07,Credit Card
+2026-01-25,10:04,San Francisco Downtown,Books & Media,63.43,Credit Card
+2026-01-25,13:19,Austin Tech-Ridge,Toys & Games,35.54,Debit Card
+2026-01-24,19:41,Austin Tech-Ridge,Sports & Outdoors,320.18,Cash
+2026-02-05,14:02,San Francisco Downtown,Electronics,980.80,Debit Card
+2026-03-05,18:30,Seattle Pike-Place,Books & Media,80.07,Debit Card
+2026-02-05,21:10,Denver Galleria,Groceries & Food,58.24,Credit Card
+2026-03-03,10:04,New York Flagship,Sports & Outdoors,339.12,Debit Card
+2026-01-03,16:01,Miami Beachwalk,Toys & Games,15.37,Debit Card
+2026-01-16,19:00,San Francisco Downtown,Home & Kitchen,116.06,Debit Card
+2026-03-26,16:26,Dallas Metro,Clothing & Apparel,197.55,Debit Card
+2026-02-16,16:58,Denver Galleria,Groceries & Food,12.24,Cash
+2026-01-19,17:30,Miami Beachwalk,Electronics,208.97,Cash
+2026-03-09,11:13,Atlanta Midtown,Groceries & Food,148.88,Credit Card
+2026-01-27,13:50,Denver Galleria,Clothing & Apparel,142.81,Debit Card
+2026-01-21,21:08,Miami Beachwalk,Toys & Games,16.53,Cash
+2026-01-05,09:18,Los Angeles Plaza,Home & Kitchen,150.61,Credit Card
+2026-01-15,12:39,Los Angeles Plaza,Electronics,868.28,Cash
+2026-02-19,10:34,Seattle Pike-Place,Books & Media,62.60,Credit Card
+2026-03-13,13:19,Miami Beachwalk,Clothing & Apparel,136.28,Cash
+2026-01-14,16:18,Miami Beachwalk,Health & Beauty,87.34,Credit Card
+2026-01-03,13:57,Boston Commons,Health & Beauty,112.41,Debit Card
+2026-03-08,12:50,Phoenix Desert-Ridge,Books & Media,54.58,Mobile Pay (UPI/Apple Pay)
+2026-01-23,16:55,Miami Beachwalk,Sports & Outdoors,182.13,Cash
+2026-03-24,12:54,Atlanta Midtown,Toys & Games,96.46,Mobile Pay (UPI/Apple Pay)
+2026-01-10,21:13,San Francisco Downtown,Toys & Games,110.88,Mobile Pay (UPI/Apple Pay)
+2026-02-27,11:40,Dallas Metro,Clothing & Apparel,64.42,Mobile Pay (UPI/Apple Pay)
+2026-03-18,12:17,Los Angeles Plaza,Toys & Games,25.96,Debit Card
+2026-02-09,13:46,Phoenix Desert-Ridge,Books & Media,79.59,Mobile Pay (UPI/Apple Pay)
+2026-03-19,20:28,San Francisco Downtown,Groceries & Food,37.40,Debit Card
+2026-02-27,15:08,Chicago Central,Sports & Outdoors,281.23,Credit Card
+2026-03-10,10:08,Chicago Central,Sports & Outdoors,86.68,Cash
+2026-02-01,17:35,Dallas Metro,Toys & Games,90.59,Mobile Pay (UPI/Apple Pay)
+2026-01-06,20:12,Dallas Metro,Health & Beauty,89.58,Credit Card
+2026-03-03,17:38,San Francisco Downtown,Toys & Games,51.03,Mobile Pay (UPI/Apple Pay)
+2026-03-15,17:01,Chicago Central,Books & Media,17.49,Cash
+2026-02-28,21:47,Phoenix Desert-Ridge,Sports & Outdoors,126.22,Credit Card
+2026-03-08,10:54,Dallas Metro,Toys & Games,99.35,Credit Card
+2026-03-16,14:44,Austin Tech-Ridge,Health & Beauty,83.61,Debit Card
+2026-03-30,10:42,Dallas Metro,Home & Kitchen,54.97,Cash
+2026-03-03,11:18,Dallas Metro,Home & Kitchen,264.50,Mobile Pay (UPI/Apple Pay)
+2026-01-30,15:05,Denver Galleria,Home & Kitchen,368.25,Debit Card
+2026-03-03,21:17,Atlanta Midtown,Books & Media,31.77,Debit Card
+2026-01-29,17:14,San Francisco Downtown,Electronics,87.68,Mobile Pay (UPI/Apple Pay)
+2026-02-16,12:39,Seattle Pike-Place,Home & Kitchen,193.92,Cash
+2026-01-28,13:13,New York Flagship,Toys & Games,83.48,Cash
+2026-03-20,15:30,Seattle Pike-Place,Home & Kitchen,435.86,Cash
+2026-02-14,17:48,Atlanta Midtown,Health & Beauty,50.27,Credit Card
+2026-02-12,21:32,Austin Tech-Ridge,Toys & Games,37.79,Debit Card
+2026-01-10,10:10,Phoenix Desert-Ridge,Books & Media,80.64,Cash
+2026-03-09,12:38,New York Flagship,Toys & Games,84.47,Credit Card
+2026-02-23,11:03,Boston Commons,Electronics,915.91,Mobile Pay (UPI/Apple Pay)
+2026-03-08,20:39,Atlanta Midtown,Clothing & Apparel,121.54,Debit Card
+2026-03-22,13:37,Austin Tech-Ridge,Toys & Games,27.35,Mobile Pay (UPI/Apple Pay)
+2026-02-27,11:10,Phoenix Desert-Ridge,Health & Beauty,55.60,Mobile Pay (UPI/Apple Pay)
+2026-01-05,10:49,Miami Beachwalk,Books & Media,30.41,Debit Card
+2026-02-15,10:53,Miami Beachwalk,Toys & Games,60.40,Mobile Pay (UPI/Apple Pay)
+2026-01-11,11:42,San Francisco Downtown,Groceries & Food,15.06,Credit Card
+2026-01-23,13:14,Phoenix Desert-Ridge,Groceries & Food,92.93,Debit Card
+2026-03-08,13:20,San Francisco Downtown,Toys & Games,72.09,Mobile Pay (UPI/Apple Pay)
+2026-02-25,17:44,Boston Commons,Books & Media,54.45,Credit Card
+2026-02-22,17:54,Boston Commons,Home & Kitchen,179.38,Mobile Pay (UPI/Apple Pay)
+2026-03-24,14:07,Dallas Metro,Books & Media,81.23,Credit Card
+2026-03-26,10:35,Chicago Central,Books & Media,72.89,Credit Card
+2026-02-13,11:22,Atlanta Midtown,Toys & Games,97.07,Mobile Pay (UPI/Apple Pay)
+2026-03-04,16:56,New York Flagship,Toys & Games,105.21,Mobile Pay (UPI/Apple Pay)
+2026-03-23,09:31,Seattle Pike-Place,Clothing & Apparel,139.53,Debit Card
+2026-02-28,16:53,Dallas Metro,Clothing & Apparel,56.20,Mobile Pay (UPI/Apple Pay)
+2026-03-22,13:34,New York Flagship,Toys & Games,115.21,Debit Card
+2026-01-26,20:28,Denver Galleria,Sports & Outdoors,334.43,Cash
+2026-01-05,15:46,Austin Tech-Ridge,Health & Beauty,38.70,Cash
+2026-03-23,17:40,Boston Commons,Home & Kitchen,152.52,Credit Card
+2026-02-11,16:18,Dallas Metro,Home & Kitchen,449.68,Credit Card
+2026-03-23,18:37,Atlanta Midtown,Sports & Outdoors,301.56,Credit Card
+2026-02-08,09:43,Miami Beachwalk,Sports & Outdoors,366.52,Debit Card
+2026-01-31,10:51,Boston Commons,Books & Media,72.19,Credit Card
+2026-03-07,10:38,Boston Commons,Sports & Outdoors,114.03,Mobile Pay (UPI/Apple Pay)
+2026-02-26,20:29,Seattle Pike-Place,Sports & Outdoors,242.10,Cash
+2026-02-12,12:38,San Francisco Downtown,Health & Beauty,79.96,Debit Card
+2026-03-12,14:37,New York Flagship,Books & Media,64.23,Credit Card
+2026-02-16,19:08,Los Angeles Plaza,Home & Kitchen,45.33,Cash
+2026-02-04,20:22,Denver Galleria,Sports & Outdoors,76.15,Cash
+2026-02-24,16:18,New York Flagship,Health & Beauty,31.42,Cash
+2026-03-04,15:17,Los Angeles Plaza,Sports & Outdoors,388.20,Cash
+2026-03-27,13:54,Denver Galleria,Electronics,430.13,Cash
+2026-01-26,19:17,Boston Commons,Sports & Outdoors,215.75,Debit Card
+2026-03-30,20:49,Denver Galleria,Groceries & Food,114.42,Cash
+2026-01-21,12:25,Miami Beachwalk,Clothing & Apparel,125.51,Mobile Pay (UPI/Apple Pay)
+2026-02-22,09:47,San Francisco Downtown,Health & Beauty,65.62,Mobile Pay (UPI/Apple Pay)
+2026-02-13,21:05,Los Angeles Plaza,Toys & Games,114.37,Mobile Pay (UPI/Apple Pay)
+2026-02-08,14:07,Dallas Metro,Electronics,752.83,Credit Card
+2026-02-22,21:40,Seattle Pike-Place,Sports & Outdoors,53.44,Credit Card
+2026-03-14,09:22,Miami Beachwalk,Books & Media,56.57,Debit Card
+2026-02-03,09:34,Los Angeles Plaza,Groceries & Food,18.60,Mobile Pay (UPI/Apple Pay)
+2026-01-31,15:13,Denver Galleria,Health & Beauty,112.52,Mobile Pay (UPI/Apple Pay)
+2026-02-12,11:41,Phoenix Desert-Ridge,Sports & Outdoors,273.87,Debit Card
+2026-03-16,18:48,Austin Tech-Ridge,Home & Kitchen,22.12,Debit Card
+2026-03-22,11:20,Los Angeles Plaza,Groceries & Food,8.96,Mobile Pay (UPI/Apple Pay)
+2026-01-10,11:02,Seattle Pike-Place,Clothing & Apparel,15.17,Debit Card
+2026-01-22,15:01,Austin Tech-Ridge,Toys & Games,99.56,Mobile Pay (UPI/Apple Pay)
+2026-02-26,16:58,Miami Beachwalk,Books & Media,16.57,Mobile Pay (UPI/Apple Pay)
+2026-02-12,11:07,Boston Commons,Health & Beauty,25.35,Debit Card
+2026-01-14,10:04,Boston Commons,Health & Beauty,73.01,Debit Card
+2026-03-07,18:01,Dallas Metro,Groceries & Food,150.87,Mobile Pay (UPI/Apple Pay)
+2026-03-08,20:11,New York Flagship,Books & Media,84.54,Credit Card
+2026-01-09,14:38,Miami Beachwalk,Groceries & Food,97.74,Credit Card
+2026-03-26,10:34,Miami Beachwalk,Sports & Outdoors,168.94,Debit Card
+2026-03-09,13:17,Los Angeles Plaza,Clothing & Apparel,70.95,Mobile Pay (UPI/Apple Pay)
+2026-02-28,09:46,Los Angeles Plaza,Sports & Outdoors,197.82,Mobile Pay (UPI/Apple Pay)
+2026-03-02,11:48,San Francisco Downtown,Health & Beauty,121.46,Debit Card
+2026-01-29,21:25,San Francisco Downtown,Health & Beauty,80.53,Mobile Pay (UPI/Apple Pay)
+2026-02-11,20:10,Los Angeles Plaza,Sports & Outdoors,233.37,Mobile Pay (UPI/Apple Pay)
+2026-01-31,14:24,Denver Galleria,Clothing & Apparel,163.58,Cash
+2026-02-18,21:33,Seattle Pike-Place,Health & Beauty,137.41,Cash
+2026-02-15,15:17,Dallas Metro,Books & Media,10.12,Debit Card
+2026-03-05,20:01,Miami Beachwalk,Groceries & Food,91.57,Cash
+2026-01-26,11:37,Miami Beachwalk,Sports & Outdoors,247.10,Cash
+2026-03-08,10:20,Seattle Pike-Place,Groceries & Food,52.52,Cash
+2026-01-18,18:32,Phoenix Desert-Ridge,Sports & Outdoors,338.61,Cash
+2026-02-09,12:43,Boston Commons,Clothing & Apparel,118.37,Mobile Pay (UPI/Apple Pay)
+2026-02-04,21:35,Austin Tech-Ridge,Sports & Outdoors,322.75,Debit Card
+2026-01-12,15:16,Seattle Pike-Place,Sports & Outdoors,142.29,Credit Card
+2026-03-30,21:17,Chicago Central,Groceries & Food,28.28,Debit Card
+2026-02-20,14:45,Chicago Central,Clothing & Apparel,23.67,Credit Card
+2026-02-06,13:51,Miami Beachwalk,Sports & Outdoors,108.52,Credit Card
+2026-01-19,11:02,New York Flagship,Groceries & Food,115.51,Credit Card
+2026-02-24,19:20,Seattle Pike-Place,Clothing & Apparel,54.94,Credit Card
+2026-03-09,13:07,Dallas Metro,Home & Kitchen,372.10,Cash
+2026-01-25,09:32,Austin Tech-Ridge,Electronics,574.94,Debit Card
+2026-01-24,17:56,Denver Galleria,Toys & Games,30.06,Credit Card
+2026-01-22,20:19,San Francisco Downtown,Sports & Outdoors,340.58,Credit Card
+2026-02-04,13:04,Atlanta Midtown,Health & Beauty,115.58,Cash
+2026-01-05,13:23,Dallas Metro,Sports & Outdoors,69.98,Mobile Pay (UPI/Apple Pay)
+2026-01-23,10:33,Chicago Central,Toys & Games,13.69,Debit Card
+2026-02-14,14:51,Chicago Central,Clothing & Apparel,72.04,Credit Card
+2026-02-18,12:30,Boston Commons,Toys & Games,48.64,Mobile Pay (UPI/Apple Pay)
+2026-01-16,18:39,Dallas Metro,Groceries & Food,114.42,Mobile Pay (UPI/Apple Pay)
+2026-02-21,14:21,Boston Commons,Health & Beauty,86.30,Debit Card
+2026-01-23,16:46,Chicago Central,Electronics,1006.11,Mobile Pay (UPI/Apple Pay)
+2026-02-06,12:18,New York Flagship,Groceries & Food,25.79,Debit Card
+2026-03-03,11:44,Dallas Metro,Health & Beauty,44.86,Debit Card
+2026-02-17,11:05,Boston Commons,Electronics,969.71,Credit Card
+2026-03-03,13:56,Atlanta Midtown,Clothing & Apparel,135.74,Credit Card
+2026-01-12,20:41,Chicago Central,Sports & Outdoors,73.63,Cash
+2026-03-01,10:31,Atlanta Midtown,Books & Media,18.35,Debit Card
+2026-01-10,17:32,Phoenix Desert-Ridge,Electronics,768.83,Mobile Pay (UPI/Apple Pay)
+2026-01-20,11:44,Austin Tech-Ridge,Health & Beauty,68.62,Cash
+2026-03-11,09:56,Dallas Metro,Toys & Games,27.80,Mobile Pay (UPI/Apple Pay)
+2026-02-11,19:03,Miami Beachwalk,Home & Kitchen,261.38,Cash
+2026-03-23,11:44,Austin Tech-Ridge,Toys & Games,48.61,Debit Card
+2026-03-03,13:44,Chicago Central,Health & Beauty,12.77,Mobile Pay (UPI/Apple Pay)
+2026-02-11,21:45,Los Angeles Plaza,Groceries & Food,129.38,Cash
+2026-01-23,09:56,New York Flagship,Health & Beauty,89.78,Mobile Pay (UPI/Apple Pay)
+2026-02-11,18:25,San Francisco Downtown,Books & Media,15.26,Debit Card
+2026-02-06,14:22,New York Flagship,Electronics,559.96,Debit Card
+2026-03-28,21:06,Seattle Pike-Place,Groceries & Food,24.88,Credit Card
+2026-01-07,11:49,Phoenix Desert-Ridge,Toys & Games,39.01,Cash
+2026-03-25,16:42,Miami Beachwalk,Groceries & Food,81.92,Debit Card
+2026-02-13,21:04,Boston Commons,Toys & Games,21.49,Credit Card
+2026-02-20,21:23,Los Angeles Plaza,Books & Media,73.33,Cash
+2026-02-20,12:02,Denver Galleria,Health & Beauty,64.65,Cash
+2026-01-26,10:10,Austin Tech-Ridge,Health & Beauty,116.71,Cash
+2026-02-23,21:39,New York Flagship,Clothing & Apparel,69.07,Cash
+2026-01-14,17:48,Chicago Central,Sports & Outdoors,77.29,Cash
+2026-01-25,09:39,Atlanta Midtown,Books & Media,16.76,Mobile Pay (UPI/Apple Pay)
+2026-01-01,10:04,Austin Tech-Ridge,Sports & Outdoors,191.53,Credit Card
+2026-02-28,20:56,Phoenix Desert-Ridge,Electronics,244.66,Credit Card
+2026-02-12,12:55,Chicago Central,Health & Beauty,74.45,Cash
+2026-01-31,09:25,Los Angeles Plaza,Clothing & Apparel,176.72,Cash
+2026-01-21,15:31,Los Angeles Plaza,Groceries & Food,98.68,Debit Card
+2026-01-27,17:30,Chicago Central,Home & Kitchen,181.37,Mobile Pay (UPI/Apple Pay)
+2026-01-30,12:22,Miami Beachwalk,Clothing & Apparel,43.64,Cash
+2026-01-23,14:08,Atlanta Midtown,Toys & Games,24.23,Cash
+2026-03-26,18:03,San Francisco Downtown,Toys & Games,80.38,Mobile Pay (UPI/Apple Pay)
+2026-02-17,21:38,Austin Tech-Ridge,Toys & Games,29.98,Cash
+2026-01-23,13:35,Miami Beachwalk,Health & Beauty,21.56,Mobile Pay (UPI/Apple Pay)
+2026-01-20,15:45,Phoenix Desert-Ridge,Sports & Outdoors,299.88,Cash
+2026-03-11,14:28,Austin Tech-Ridge,Home & Kitchen,244.01,Mobile Pay (UPI/Apple Pay)
+2026-02-22,13:58,Phoenix Desert-Ridge,Books & Media,26.26,Mobile Pay (UPI/Apple Pay)
+2026-02-04,16:36,Seattle Pike-Place,Electronics,417.79,Debit Card
+2026-01-05,12:46,Boston Commons,Clothing & Apparel,114.86,Debit Card
+2026-01-23,15:41,Seattle Pike-Place,Clothing & Apparel,25.38,Mobile Pay (UPI/Apple Pay)
+2026-01-23,13:24,Denver Galleria,Sports & Outdoors,329.12,Credit Card
+2026-01-26,11:12,Miami Beachwalk,Clothing & Apparel,187.57,Credit Card
+2026-02-27,13:43,Miami Beachwalk,Electronics,799.56,Debit Card
+2026-01-27,16:57,Dallas Metro,Health & Beauty,11.70,Debit Card
+2026-01-30,10:56,Miami Beachwalk,Electronics,949.52,Credit Card
+2026-03-23,21:51,Dallas Metro,Home & Kitchen,138.91,Credit Card
+2026-01-16,11:37,Phoenix Desert-Ridge,Groceries & Food,123.96,Credit Card
+2026-03-14,13:37,Austin Tech-Ridge,Groceries & Food,79.23,Debit Card
+2026-03-18,09:41,Los Angeles Plaza,Clothing & Apparel,73.53,Mobile Pay (UPI/Apple Pay)
+2026-03-01,13:32,Los Angeles Plaza,Sports & Outdoors,114.79,Credit Card
+2026-03-27,10:53,Phoenix Desert-Ridge,Health & Beauty,92.65,Credit Card
+2026-01-08,19:33,New York Flagship,Books & Media,59.93,Mobile Pay (UPI/Apple Pay)
+2026-02-15,20:33,Los Angeles Plaza,Health & Beauty,52.25,Credit Card
+2026-03-10,09:00,Seattle Pike-Place,Clothing & Apparel,16.32,Mobile Pay (UPI/Apple Pay)
+2026-01-18,20:30,Los Angeles Plaza,Books & Media,82.17,Cash
+2026-02-09,14:27,San Francisco Downtown,Groceries & Food,133.78,Debit Card
+2026-01-05,12:08,Los Angeles Plaza,Health & Beauty,127.12,Debit Card
+2026-03-23,14:40,Denver Galleria,Electronics,226.86,Cash
+2026-03-23,13:24,Boston Commons,Health & Beauty,85.12,Mobile Pay (UPI/Apple Pay)
+2026-02-09,13:15,Chicago Central,Home & Kitchen,438.84,Debit Card
+2026-02-07,20:34,Phoenix Desert-Ridge,Groceries & Food,31.24,Credit Card
+2026-01-01,20:09,Austin Tech-Ridge,Home & Kitchen,96.52,Credit Card
+2026-03-05,13:20,Atlanta Midtown,Health & Beauty,45.57,Debit Card
+2026-02-23,19:35,Denver Galleria,Health & Beauty,41.24,Mobile Pay (UPI/Apple Pay)
+2026-02-22,15:46,Dallas Metro,Home & Kitchen,424.18,Credit Card
+2026-03-02,17:24,Los Angeles Plaza,Toys & Games,116.99,Credit Card
+2026-01-21,10:19,Chicago Central,Electronics,1121.72,Cash
+2026-02-07,15:43,Los Angeles Plaza,Electronics,1074.83,Credit Card
+2026-02-03,17:47,Chicago Central,Clothing & Apparel,115.75,Debit Card
+2026-01-04,17:58,Los Angeles Plaza,Toys & Games,107.90,Credit Card
+2026-01-19,18:03,New York Flagship,Toys & Games,40.90,Debit Card
+2026-02-24,20:52,Miami Beachwalk,Groceries & Food,152.31,Mobile Pay (UPI/Apple Pay)
+2026-03-19,11:16,Miami Beachwalk,Sports & Outdoors,299.86,Debit Card
+2026-02-19,11:49,Atlanta Midtown,Clothing & Apparel,195.41,Mobile Pay (UPI/Apple Pay)
+2026-01-17,17:46,Phoenix Desert-Ridge,Clothing & Apparel,42.60,Cash
+2026-01-06,20:37,Los Angeles Plaza,Electronics,137.56,Cash
+2026-01-11,14:59,Dallas Metro,Books & Media,27.62,Debit Card
+2026-03-02,16:53,Chicago Central,Clothing & Apparel,117.40,Mobile Pay (UPI/Apple Pay)
+2026-03-27,13:38,Los Angeles Plaza,Electronics,1078.13,Cash
+2026-02-22,21:27,Los Angeles Plaza,Health & Beauty,42.87,Credit Card
+2026-01-11,15:31,Los Angeles Plaza,Books & Media,41.42,Debit Card
+2026-03-25,18:49,Boston Commons,Groceries & Food,46.47,Mobile Pay (UPI/Apple Pay)
+2026-02-02,18:34,San Francisco Downtown,Electronics,413.98,Mobile Pay (UPI/Apple Pay)
+2026-02-27,14:22,Boston Commons,Sports & Outdoors,223.36,Credit Card
+2026-03-10,15:10,Austin Tech-Ridge,Groceries & Food,91.63,Debit Card
+2026-03-27,13:52,Denver Galleria,Sports & Outdoors,55.12,Debit Card
+2026-01-03,10:44,Los Angeles Plaza,Home & Kitchen,297.75,Debit Card
+2026-01-05,13:22,Miami Beachwalk,Groceries & Food,112.88,Cash
+2026-01-07,11:38,Miami Beachwalk,Clothing & Apparel,15.80,Cash
+2026-03-30,19:35,Denver Galleria,Health & Beauty,16.86,Mobile Pay (UPI/Apple Pay)
+2026-02-11,12:02,Dallas Metro,Books & Media,62.56,Credit Card
+2026-02-02,17:30,Seattle Pike-Place,Groceries & Food,109.76,Mobile Pay (UPI/Apple Pay)
+2026-01-04,09:00,Los Angeles Plaza,Home & Kitchen,383.22,Debit Card
+2026-03-24,13:59,Boston Commons,Groceries & Food,14.08,Debit Card
+2026-01-09,17:39,Seattle Pike-Place,Books & Media,43.59,Debit Card
+2026-03-24,19:55,San Francisco Downtown,Clothing & Apparel,216.41,Credit Card
+2026-03-09,09:46,Denver Galleria,Health & Beauty,121.48,Credit Card
+2026-02-22,14:00,Boston Commons,Toys & Games,50.68,Mobile Pay (UPI/Apple Pay)
+2026-03-06,15:55,Phoenix Desert-Ridge,Sports & Outdoors,120.47,Debit Card
+2026-03-14,15:07,Phoenix Desert-Ridge,Health & Beauty,119.01,Mobile Pay (UPI/Apple Pay)
+2026-01-15,18:39,New York Flagship,Toys & Games,110.77,Credit Card
+2026-03-21,17:33,Seattle Pike-Place,Home & Kitchen,367.43,Cash
+2026-02-13,15:31,Denver Galleria,Books & Media,61.91,Credit Card
+2026-02-28,12:10,Dallas Metro,Toys & Games,96.84,Credit Card
+2026-01-07,20:21,Phoenix Desert-Ridge,Home & Kitchen,357.19,Cash
+2026-03-25,19:44,Atlanta Midtown,Clothing & Apparel,28.13,Credit Card
+2026-01-06,09:44,Dallas Metro,Electronics,69.94,Credit Card
+2026-03-19,16:50,New York Flagship,Electronics,553.34,Debit Card
+2026-01-13,17:36,Denver Galleria,Sports & Outdoors,276.27,Debit Card
+2026-03-29,18:25,Los Angeles Plaza,Health & Beauty,84.05,Credit Card
+2026-03-26,13:41,San Francisco Downtown,Home & Kitchen,329.65,Cash
+2026-02-22,21:48,Denver Galleria,Toys & Games,47.69,Credit Card
+2026-01-10,14:54,Denver Galleria,Health & Beauty,121.30,Mobile Pay (UPI/Apple Pay)
+2026-01-31,13:33,Phoenix Desert-Ridge,Toys & Games,96.90,Credit Card
+2026-03-25,15:07,Boston Commons,Sports & Outdoors,209.64,Credit Card
+2026-03-10,15:15,Boston Commons,Clothing & Apparel,123.52,Cash
+2026-03-30,21:10,Austin Tech-Ridge,Toys & Games,26.06,Cash
+2026-03-27,10:14,Dallas Metro,Sports & Outdoors,355.28,Mobile Pay (UPI/Apple Pay)
+2026-02-17,09:24,San Francisco Downtown,Electronics,896.30,Debit Card
+2026-02-10,17:30,Miami Beachwalk,Electronics,827.95,Credit Card
+2026-01-12,21:34,Denver Galleria,Groceries & Food,90.80,Cash
+2026-03-08,15:47,Phoenix Desert-Ridge,Books & Media,9.96,Credit Card
+2026-03-04,15:07,San Francisco Downtown,Electronics,481.31,Cash
+2026-02-12,10:36,Denver Galleria,Books & Media,73.40,Cash
+2026-01-10,16:42,Seattle Pike-Place,Sports & Outdoors,93.81,Mobile Pay (UPI/Apple Pay)
+2026-01-04,15:30,Chicago Central,Clothing & Apparel,150.74,Debit Card
+2026-01-17,13:12,Miami Beachwalk,Books & Media,12.98,Debit Card
+2026-03-08,11:47,Phoenix Desert-Ridge,Toys & Games,32.29,Credit Card
+2026-03-26,13:33,Miami Beachwalk,Health & Beauty,25.41,Credit Card
+2026-02-22,11:18,San Francisco Downtown,Toys & Games,30.50,Mobile Pay (UPI/Apple Pay)
+2026-03-24,14:28,Denver Galleria,Sports & Outdoors,184.15,Mobile Pay (UPI/Apple Pay)
+2026-01-26,18:21,Seattle Pike-Place,Home & Kitchen,382.75,Mobile Pay (UPI/Apple Pay)
+2026-01-24,15:17,Atlanta Midtown,Health & Beauty,32.29,Credit Card
+2026-02-03,16:52,Denver Galleria,Health & Beauty,75.09,Mobile Pay (UPI/Apple Pay)
+2026-01-18,14:13,Seattle Pike-Place,Home & Kitchen,151.11,Credit Card
+2026-03-13,17:55,Chicago Central,Electronics,1092.46,Credit Card
+2026-01-10,10:49,Phoenix Desert-Ridge,Clothing & Apparel,120.93,Mobile Pay (UPI/Apple Pay)
+2026-01-30,11:23,Phoenix Desert-Ridge,Health & Beauty,45.54,Credit Card
+2026-02-28,09:59,New York Flagship,Books & Media,79.73,Cash
+2026-02-18,10:22,Phoenix Desert-Ridge,Clothing & Apparel,151.03,Credit Card
+2026-02-09,09:13,Dallas Metro,Home & Kitchen,346.82,Credit Card
+2026-03-29,20:45,Denver Galleria,Health & Beauty,49.92,Mobile Pay (UPI/Apple Pay)
+2026-03-03,13:44,Chicago Central,Electronics,537.72,Credit Card
+2026-02-17,14:02,Atlanta Midtown,Books & Media,56.03,Mobile Pay (UPI/Apple Pay)
+2026-01-19,12:38,Dallas Metro,Electronics,676.28,Debit Card
+2026-02-07,12:04,Phoenix Desert-Ridge,Health & Beauty,42.80,Mobile Pay (UPI/Apple Pay)
+2026-03-19,12:20,San Francisco Downtown,Home & Kitchen,381.74,Credit Card
+2026-03-28,13:07,Miami Beachwalk,Electronics,1016.80,Cash
+2026-02-01,14:20,Atlanta Midtown,Health & Beauty,102.74,Cash
+2026-02-02,14:18,Los Angeles Plaza,Clothing & Apparel,176.97,Debit Card
+2026-02-12,16:07,Atlanta Midtown,Clothing & Apparel,57.15,Mobile Pay (UPI/Apple Pay)
+2026-03-05,09:55,Atlanta Midtown,Clothing & Apparel,182.80,Credit Card
+2026-02-18,17:42,Phoenix Desert-Ridge,Home & Kitchen,445.47,Debit Card
+2026-01-22,13:02,San Francisco Downtown,Electronics,349.44,Mobile Pay (UPI/Apple Pay)
+2026-02-09,10:55,Los Angeles Plaza,Electronics,141.90,Credit Card
+2026-03-16,21:40,Atlanta Midtown,Home & Kitchen,257.31,Cash
+2026-02-25,13:09,Austin Tech-Ridge,Health & Beauty,82.19,Cash
+2026-01-21,11:46,Los Angeles Plaza,Clothing & Apparel,114.92,Debit Card
+2026-03-26,10:36,Boston Commons,Toys & Games,62.14,Mobile Pay (UPI/Apple Pay)
+2026-03-04,19:11,Miami Beachwalk,Health & Beauty,38.66,Cash
+2026-01-14,14:35,Austin Tech-Ridge,Books & Media,39.02,Debit Card
+2026-03-31,09:33,Dallas Metro,Groceries & Food,52.90,Cash
+2026-03-06,10:33,Phoenix Desert-Ridge,Toys & Games,92.92,Cash
+2026-01-18,10:30,New York Flagship,Groceries & Food,17.41,Cash
+2026-02-18,18:14,Denver Galleria,Clothing & Apparel,42.37,Credit Card
+2026-01-21,14:17,Austin Tech-Ridge,Health & Beauty,12.51,Cash
+2026-03-05,16:44,Atlanta Midtown,Home & Kitchen,195.19,Cash
+2026-02-04,12:11,Los Angeles Plaza,Groceries & Food,28.62,Debit Card
+2026-01-06,11:39,Los Angeles Plaza,Health & Beauty,38.04,Credit Card
+2026-03-11,18:22,Austin Tech-Ridge,Groceries & Food,22.15,Credit Card
+2026-01-22,13:36,Chicago Central,Home & Kitchen,242.00,Credit Card
+2026-02-26,14:56,Chicago Central,Electronics,737.62,Credit Card
+2026-01-29,20:53,Dallas Metro,Toys & Games,91.06,Credit Card
+2026-02-05,12:32,Denver Galleria,Sports & Outdoors,59.39,Debit Card
+2026-01-02,17:11,Chicago Central,Books & Media,60.52,Credit Card
+2026-01-24,18:06,New York Flagship,Books & Media,33.87,Debit Card
+2026-01-26,13:29,San Francisco Downtown,Clothing & Apparel,152.92,Credit Card
+2026-01-08,12:18,Austin Tech-Ridge,Toys & Games,108.66,Debit Card
+2026-01-07,10:07,Boston Commons,Electronics,1130.04,Debit Card
+2026-01-05,13:54,Atlanta Midtown,Groceries & Food,153.19,Debit Card
+2026-02-02,21:31,San Francisco Downtown,Books & Media,67.66,Mobile Pay (UPI/Apple Pay)
+2026-01-17,09:43,Boston Commons,Health & Beauty,38.70,Debit Card
+2026-01-02,20:11,Phoenix Desert-Ridge,Sports & Outdoors,125.92,Debit Card
+2026-03-19,09:00,Austin Tech-Ridge,Clothing & Apparel,140.75,Mobile Pay (UPI/Apple Pay)
+2026-02-24,20:17,Austin Tech-Ridge,Electronics,270.30,Mobile Pay (UPI/Apple Pay)
+2026-03-10,20:20,Atlanta Midtown,Groceries & Food,94.22,Credit Card
+2026-03-21,17:48,Denver Galleria,Clothing & Apparel,203.55,Mobile Pay (UPI/Apple Pay)
+2026-02-14,19:21,Chicago Central,Home & Kitchen,49.91,Credit Card
+2026-01-31,14:10,Austin Tech-Ridge,Clothing & Apparel,39.76,Credit Card
+2026-01-06,19:12,Phoenix Desert-Ridge,Health & Beauty,137.56,Credit Card
+2026-01-07,20:25,Boston Commons,Sports & Outdoors,135.45,Credit Card
+2026-01-03,18:11,Atlanta Midtown,Toys & Games,44.85,Mobile Pay (UPI/Apple Pay)
+2026-02-11,20:33,Phoenix Desert-Ridge,Toys & Games,94.64,Debit Card
+2026-01-11,10:48,Los Angeles Plaza,Groceries & Food,67.41,Debit Card
+2026-03-09,09:44,Boston Commons,Books & Media,31.92,Debit Card
+2026-02-24,13:09,Los Angeles Plaza,Health & Beauty,88.31,Cash
+2026-01-29,19:56,Miami Beachwalk,Clothing & Apparel,75.42,Cash
+2026-03-09,15:33,Chicago Central,Books & Media,52.50,Credit Card
+2026-02-14,10:55,Phoenix Desert-Ridge,Sports & Outdoors,103.82,Cash
+2026-01-23,16:50,Boston Commons,Sports & Outdoors,49.46,Cash
+2026-03-11,11:17,Seattle Pike-Place,Books & Media,78.02,Mobile Pay (UPI/Apple Pay)
+2026-02-19,12:59,Boston Commons,Home & Kitchen,92.96,Debit Card
+2026-03-18,21:22,Dallas Metro,Sports & Outdoors,251.40,Mobile Pay (UPI/Apple Pay)
+2026-01-07,10:17,Chicago Central,Clothing & Apparel,38.91,Cash
+2026-03-23,17:28,Phoenix Desert-Ridge,Books & Media,34.67,Debit Card
+2026-03-23,15:17,Seattle Pike-Place,Health & Beauty,76.92,Credit Card
+2026-01-29,13:13,Seattle Pike-Place,Toys & Games,71.61,Cash
+2026-02-11,11:42,Atlanta Midtown,Sports & Outdoors,324.70,Credit Card
+2026-01-10,14:16,Atlanta Midtown,Clothing & Apparel,46.86,Credit Card
+2026-02-23,18:21,Atlanta Midtown,Home & Kitchen,395.44,Debit Card
+2026-03-31,18:50,San Francisco Downtown,Toys & Games,105.32,Cash
+2026-01-17,11:03,Seattle Pike-Place,Toys & Games,45.97,Cash
+2026-03-23,21:38,Austin Tech-Ridge,Clothing & Apparel,161.06,Credit Card
+2026-03-17,20:25,Seattle Pike-Place,Groceries & Food,58.13,Credit Card
+2026-03-02,20:12,Chicago Central,Groceries & Food,56.25,Cash
+2026-01-28,12:58,Chicago Central,Home & Kitchen,158.47,Cash
+2026-03-11,13:49,Chicago Central,Sports & Outdoors,196.67,Cash
+2026-02-08,12:06,Chicago Central,Health & Beauty,44.94,Cash
+2026-02-08,13:01,Seattle Pike-Place,Health & Beauty,27.88,Credit Card
+2026-01-04,13:45,Miami Beachwalk,Health & Beauty,99.45,Debit Card
+2026-01-24,11:16,New York Flagship,Home & Kitchen,394.50,Debit Card
+2026-03-16,12:03,Austin Tech-Ridge,Electronics,604.73,Credit Card
+2026-03-31,09:35,Dallas Metro,Home & Kitchen,257.22,Cash
+2026-01-05,16:22,Dallas Metro,Groceries & Food,22.51,Cash
+2026-01-11,10:33,Phoenix Desert-Ridge,Electronics,380.19,Mobile Pay (UPI/Apple Pay)
+2026-03-12,11:53,New York Flagship,Home & Kitchen,214.76,Credit Card
+2026-03-12,14:00,Dallas Metro,Groceries & Food,24.03,Mobile Pay (UPI/Apple Pay)
+2026-02-20,17:25,Dallas Metro,Books & Media,59.79,Debit Card
+2026-01-27,09:44,Austin Tech-Ridge,Toys & Games,34.02,Cash
+2026-01-31,13:47,Seattle Pike-Place,Sports & Outdoors,274.57,Credit Card
+2026-02-17,14:07,Phoenix Desert-Ridge,Health & Beauty,92.28,Mobile Pay (UPI/Apple Pay)
+2026-01-04,19:15,Dallas Metro,Home & Kitchen,128.90,Credit Card
+2026-02-06,16:17,Boston Commons,Clothing & Apparel,199.82,Cash
+2026-01-12,12:00,Boston Commons,Home & Kitchen,273.16,Mobile Pay (UPI/Apple Pay)
+2026-02-04,14:26,Phoenix Desert-Ridge,Electronics,1075.76,Debit Card
+2026-03-22,15:40,Dallas Metro,Health & Beauty,97.18,Mobile Pay (UPI/Apple Pay)
+2026-03-21,15:35,Denver Galleria,Groceries & Food,132.43,Cash
+2026-02-27,19:51,Chicago Central,Books & Media,14.34,Debit Card
+2026-01-06,09:47,New York Flagship,Books & Media,16.56,Cash
+2026-03-30,19:06,Seattle Pike-Place,Groceries & Food,27.68,Cash
+2026-01-13,14:27,Phoenix Desert-Ridge,Health & Beauty,21.17,Credit Card
+2026-01-22,16:46,San Francisco Downtown,Groceries & Food,118.84,Credit Card
+2026-01-08,20:37,Austin Tech-Ridge,Toys & Games,114.71,Debit Card
+2026-03-25,12:42,Dallas Metro,Sports & Outdoors,288.56,Credit Card
+2026-01-10,14:48,Austin Tech-Ridge,Home & Kitchen,148.63,Credit Card
+2026-01-22,09:51,Phoenix Desert-Ridge,Toys & Games,102.51,Credit Card
+2026-03-06,16:59,Boston Commons,Books & Media,29.16,Mobile Pay (UPI/Apple Pay)
+2026-03-14,15:57,Miami Beachwalk,Home & Kitchen,19.72,Cash
+2026-03-27,12:05,Dallas Metro,Sports & Outdoors,324.48,Cash
+2026-01-03,10:09,Seattle Pike-Place,Health & Beauty,137.07,Cash
+2026-02-10,11:34,Phoenix Desert-Ridge,Sports & Outdoors,237.65,Cash
+2026-01-04,20:43,Atlanta Midtown,Toys & Games,99.63,Cash
+2026-01-05,13:46,Los Angeles Plaza,Groceries & Food,42.23,Credit Card
+2026-01-05,11:50,Los Angeles Plaza,Home & Kitchen,281.48,Debit Card
+2026-01-14,14:31,Dallas Metro,Clothing & Apparel,99.30,Credit Card
+2026-02-02,19:52,Seattle Pike-Place,Books & Media,51.04,Debit Card
+2026-03-11,13:11,San Francisco Downtown,Electronics,228.97,Credit Card
+2026-02-21,19:27,New York Flagship,Clothing & Apparel,147.27,Cash
+2026-03-13,16:33,Seattle Pike-Place,Sports & Outdoors,211.16,Cash
+2026-01-08,10:07,Seattle Pike-Place,Sports & Outdoors,44.37,Credit Card
+2026-03-15,19:12,Chicago Central,Home & Kitchen,50.71,Mobile Pay (UPI/Apple Pay)
+2026-02-17,14:34,Boston Commons,Groceries & Food,38.74,Mobile Pay (UPI/Apple Pay)
+2026-02-19,18:12,Phoenix Desert-Ridge,Toys & Games,64.20,Cash
+2026-01-03,15:19,Austin Tech-Ridge,Electronics,152.30,Debit Card
+2026-01-24,14:32,San Francisco Downtown,Electronics,596.76,Debit Card
+2026-01-04,12:50,Los Angeles Plaza,Groceries & Food,12.03,Credit Card
+2026-01-22,09:09,New York Flagship,Sports & Outdoors,43.04,Mobile Pay (UPI/Apple Pay)
+2026-03-02,13:29,Boston Commons,Home & Kitchen,280.26,Credit Card
+2026-03-21,19:07,Boston Commons,Electronics,1018.18,Cash
+2026-02-23,21:02,Austin Tech-Ridge,Groceries & Food,77.49,Cash
+2026-03-31,13:08,Seattle Pike-Place,Groceries & Food,50.17,Mobile Pay (UPI/Apple Pay)
+2026-03-04,20:53,Phoenix Desert-Ridge,Toys & Games,98.88,Mobile Pay (UPI/Apple Pay)
+2026-01-29,09:25,Miami Beachwalk,Electronics,854.78,Credit Card
+2026-01-22,20:09,Denver Galleria,Groceries & Food,59.94,Debit Card
+2026-02-17,11:43,Denver Galleria,Electronics,376.85,Credit Card
+2026-02-16,16:44,New York Flagship,Books & Media,41.33,Credit Card
+2026-03-31,14:10,New York Flagship,Health & Beauty,104.99,Mobile Pay (UPI/Apple Pay)
+2026-02-03,15:19,San Francisco Downtown,Books & Media,29.88,Mobile Pay (UPI/Apple Pay)
+2026-03-01,18:29,Boston Commons,Groceries & Food,60.82,Cash
+2026-02-26,20:25,San Francisco Downtown,Health & Beauty,109.58,Cash
+2026-01-16,21:12,Los Angeles Plaza,Electronics,829.08,Debit Card
+2026-03-17,10:04,Phoenix Desert-Ridge,Sports & Outdoors,123.36,Debit Card
+2026-03-17,12:17,San Francisco Downtown,Groceries & Food,25.14,Mobile Pay (UPI/Apple Pay)
+2026-02-25,19:27,Los Angeles Plaza,Books & Media,82.67,Credit Card
+2026-03-12,09:24,Miami Beachwalk,Sports & Outdoors,372.19,Credit Card
+2026-01-06,13:43,Chicago Central,Books & Media,79.18,Mobile Pay (UPI/Apple Pay)
+2026-03-11,11:12,Chicago Central,Sports & Outdoors,157.64,Cash
+2026-02-01,11:48,San Francisco Downtown,Groceries & Food,118.17,Credit Card
+2026-02-26,19:43,Chicago Central,Toys & Games,59.13,Credit Card
+2026-01-08,10:55,New York Flagship,Sports & Outdoors,126.98,Cash
+2026-03-20,19:17,Atlanta Midtown,Books & Media,56.01,Credit Card
+2026-01-25,10:20,Austin Tech-Ridge,Health & Beauty,20.81,Cash
+2026-03-18,10:06,Los Angeles Plaza,Home & Kitchen,298.16,Cash
+2026-03-03,12:34,Dallas Metro,Electronics,570.77,Cash
+2026-02-06,13:09,Phoenix Desert-Ridge,Clothing & Apparel,43.75,Credit Card
+2026-03-22,09:23,Dallas Metro,Books & Media,11.64,Debit Card
+2026-01-09,17:03,Chicago Central,Health & Beauty,85.09,Cash
+2026-02-15,11:00,San Francisco Downtown,Sports & Outdoors,55.82,Cash
+2026-01-07,11:50,Miami Beachwalk,Groceries & Food,12.07,Mobile Pay (UPI/Apple Pay)
+2026-01-24,20:22,Austin Tech-Ridge,Health & Beauty,37.49,Mobile Pay (UPI/Apple Pay)
+2026-01-31,13:19,San Francisco Downtown,Health & Beauty,18.44,Mobile Pay (UPI/Apple Pay)
+2026-03-28,15:04,Dallas Metro,Toys & Games,59.83,Debit Card
+2026-02-07,13:18,Dallas Metro,Electronics,616.83,Debit Card
+2026-03-09,20:19,Denver Galleria,Sports & Outdoors,80.39,Mobile Pay (UPI/Apple Pay)
+2026-02-07,19:27,New York Flagship,Groceries & Food,134.31,Mobile Pay (UPI/Apple Pay)
+2026-03-28,13:32,Miami Beachwalk,Home & Kitchen,324.56,Cash
+2026-03-22,13:24,Miami Beachwalk,Electronics,400.69,Cash
+2026-02-12,14:31,New York Flagship,Groceries & Food,99.21,Credit Card
+2026-03-10,20:49,Miami Beachwalk,Books & Media,57.71,Mobile Pay (UPI/Apple Pay)
+2026-01-04,21:16,Seattle Pike-Place,Sports & Outdoors,139.94,Cash
+2026-02-13,20:20,Denver Galleria,Home & Kitchen,217.66,Credit Card
+2026-02-25,10:46,New York Flagship,Home & Kitchen,440.30,Mobile Pay (UPI/Apple Pay)
+2026-01-15,21:53,Phoenix Desert-Ridge,Books & Media,21.23,Cash
+2026-01-20,09:34,Austin Tech-Ridge,Books & Media,33.72,Credit Card
+2026-02-05,21:16,Dallas Metro,Groceries & Food,106.87,Credit Card
+2026-02-16,15:51,Los Angeles Plaza,Electronics,940.61,Credit Card
+2026-03-13,17:38,New York Flagship,Books & Media,40.53,Credit Card
+2026-02-03,15:40,Chicago Central,Clothing & Apparel,49.35,Debit Card
+2026-03-10,17:00,Austin Tech-Ridge,Electronics,749.53,Mobile Pay (UPI/Apple Pay)
+2026-03-02,11:08,Atlanta Midtown,Home & Kitchen,30.23,Cash
+2026-01-14,15:57,Atlanta Midtown,Electronics,1209.72,Mobile Pay (UPI/Apple Pay)
+2026-02-28,17:45,San Francisco Downtown,Groceries & Food,50.77,Mobile Pay (UPI/Apple Pay)
+2026-03-07,15:40,Boston Commons,Groceries & Food,150.33,Mobile Pay (UPI/Apple Pay)
+2026-01-10,19:58,Austin Tech-Ridge,Toys & Games,117.41,Cash
+2026-02-27,11:03,Atlanta Midtown,Groceries & Food,113.86,Mobile Pay (UPI/Apple Pay)
+2026-01-28,14:49,New York Flagship,Toys & Games,102.54,Credit Card
+2026-01-20,21:06,Phoenix Desert-Ridge,Toys & Games,35.90,Debit Card
+2026-01-12,13:34,Seattle Pike-Place,Books & Media,14.14,Credit Card
+2026-03-18,15:39,Seattle Pike-Place,Home & Kitchen,183.62,Debit Card
+2026-03-09,21:30,Dallas Metro,Sports & Outdoors,303.47,Credit Card
+2026-01-09,11:02,Chicago Central,Home & Kitchen,110.55,Debit Card
+2026-03-09,11:10,Chicago Central,Electronics,775.63,Cash
+2026-01-11,18:30,Los Angeles Plaza,Home & Kitchen,268.26,Cash
+2026-01-08,10:14,Austin Tech-Ridge,Home & Kitchen,47.59,Debit Card
+2026-03-14,11:33,Atlanta Midtown,Health & Beauty,36.03,Cash
+2026-03-03,11:08,San Francisco Downtown,Clothing & Apparel,146.62,Mobile Pay (UPI/Apple Pay)
+2026-01-31,20:21,Dallas Metro,Clothing & Apparel,138.85,Credit Card
+2026-01-28,15:01,Seattle Pike-Place,Books & Media,81.22,Mobile Pay (UPI/Apple Pay)
+2026-01-14,10:01,San Francisco Downtown,Groceries & Food,94.67,Credit Card
+2026-03-24,09:36,Denver Galleria,Groceries & Food,117.52,Debit Card
+2026-02-17,14:29,Phoenix Desert-Ridge,Sports & Outdoors,242.47,Debit Card
+2026-02-14,11:35,Boston Commons,Sports & Outdoors,254.03,Debit Card
+2026-01-25,12:54,Seattle Pike-Place,Sports & Outdoors,176.86,Cash
+2026-02-19,11:07,Dallas Metro,Toys & Games,108.31,Debit Card
+2026-01-23,15:12,Phoenix Desert-Ridge,Clothing & Apparel,49.26,Mobile Pay (UPI/Apple Pay)
+2026-02-25,12:23,Dallas Metro,Clothing & Apparel,214.68,Mobile Pay (UPI/Apple Pay)
+2026-02-16,11:16,Phoenix Desert-Ridge,Clothing & Apparel,91.91,Cash
+2026-02-12,10:19,Austin Tech-Ridge,Health & Beauty,101.46,Cash
+2026-03-15,15:11,Miami Beachwalk,Toys & Games,63.02,Mobile Pay (UPI/Apple Pay)
+2026-03-19,13:46,Atlanta Midtown,Health & Beauty,123.68,Credit Card
+2026-03-14,11:35,Los Angeles Plaza,Books & Media,44.55,Cash
+2026-02-22,14:25,San Francisco Downtown,Sports & Outdoors,156.23,Credit Card
+2026-01-12,19:23,San Francisco Downtown,Groceries & Food,156.03,Credit Card
+2026-03-24,09:05,Chicago Central,Clothing & Apparel,144.60,Mobile Pay (UPI/Apple Pay)
+2026-03-26,16:39,Boston Commons,Toys & Games,77.74,Debit Card
+2026-02-27,20:36,San Francisco Downtown,Health & Beauty,38.15,Mobile Pay (UPI/Apple Pay)
+2026-01-31,12:38,Dallas Metro,Clothing & Apparel,143.90,Cash
+2026-01-21,20:50,Chicago Central,Home & Kitchen,136.18,Credit Card
+2026-02-10,11:12,Los Angeles Plaza,Electronics,409.15,Credit Card
+2026-02-05,12:28,Miami Beachwalk,Home & Kitchen,73.79,Mobile Pay (UPI/Apple Pay)
+2026-02-21,20:13,San Francisco Downtown,Home & Kitchen,187.22,Cash
+2026-02-28,15:36,Miami Beachwalk,Electronics,938.77,Mobile Pay (UPI/Apple Pay)
+2026-03-03,19:26,Los Angeles Plaza,Groceries & Food,128.00,Mobile Pay (UPI/Apple Pay)
+2026-01-14,13:10,Los Angeles Plaza,Sports & Outdoors,162.08,Credit Card
+2026-03-14,13:27,Chicago Central,Health & Beauty,76.32,Debit Card
+2026-01-10,21:12,Chicago Central,Clothing & Apparel,26.35,Cash
+2026-01-10,10:46,Denver Galleria,Clothing & Apparel,120.76,Credit Card
+2026-01-25,15:45,Boston Commons,Toys & Games,112.31,Credit Card
+2026-01-05,17:47,Austin Tech-Ridge,Books & Media,52.04,Credit Card
+2026-01-12,20:12,Dallas Metro,Home & Kitchen,239.01,Debit Card
+2026-02-10,16:13,Austin Tech-Ridge,Electronics,856.09,Cash
+2026-03-22,21:46,Phoenix Desert-Ridge,Electronics,291.09,Debit Card
+2026-02-12,15:50,Denver Galleria,Toys & Games,51.51,Credit Card
+2026-02-11,21:14,Los Angeles Plaza,Home & Kitchen,390.38,Mobile Pay (UPI/Apple Pay)
+2026-01-03,18:54,Denver Galleria,Home & Kitchen,95.94,Debit Card
+2026-03-14,17:06,Miami Beachwalk,Sports & Outdoors,180.71,Debit Card
+2026-02-11,16:40,Atlanta Midtown,Home & Kitchen,295.03,Mobile Pay (UPI/Apple Pay)
+2026-02-18,11:00,New York Flagship,Books & Media,61.52,Cash
+2026-01-20,18:08,New York Flagship,Toys & Games,83.19,Mobile Pay (UPI/Apple Pay)
+2026-03-31,17:49,Austin Tech-Ridge,Books & Media,24.05,Cash
+2026-01-30,18:20,Austin Tech-Ridge,Health & Beauty,50.36,Debit Card
+2026-03-27,11:20,Chicago Central,Sports & Outdoors,320.11,Cash
+2026-03-28,09:43,Boston Commons,Health & Beauty,76.53,Credit Card
+2026-03-31,12:33,Boston Commons,Sports & Outdoors,60.83,Debit Card
+2026-03-20,19:01,San Francisco Downtown,Books & Media,72.82,Credit Card
+2026-02-27,18:15,Los Angeles Plaza,Electronics,572.01,Mobile Pay (UPI/Apple Pay)
+2026-02-22,15:39,New York Flagship,Groceries & Food,118.95,Credit Card
+2026-02-01,14:41,Boston Commons,Sports & Outdoors,178.79,Mobile Pay (UPI/Apple Pay)
+2026-02-01,13:27,San Francisco Downtown,Toys & Games,31.51,Credit Card
+2026-01-31,20:49,Chicago Central,Home & Kitchen,19.62,Credit Card
+2026-01-05,20:24,Austin Tech-Ridge,Sports & Outdoors,115.64,Credit Card
+2026-02-12,10:08,Dallas Metro,Health & Beauty,36.25,Credit Card
+2026-02-22,11:50,Austin Tech-Ridge,Groceries & Food,70.19,Credit Card
+2026-03-25,12:27,Boston Commons,Toys & Games,114.57,Mobile Pay (UPI/Apple Pay)
+2026-02-14,16:50,Atlanta Midtown,Electronics,939.94,Mobile Pay (UPI/Apple Pay)
+2026-01-07,09:12,Seattle Pike-Place,Health & Beauty,129.18,Credit Card
+2026-02-21,09:54,Denver Galleria,Clothing & Apparel,80.84,Credit Card
+2026-02-23,12:54,San Francisco Downtown,Clothing & Apparel,56.35,Debit Card
+2026-01-30,10:10,Miami Beachwalk,Toys & Games,35.46,Mobile Pay (UPI/Apple Pay)
+2026-03-02,20:22,Austin Tech-Ridge,Health & Beauty,77.42,Debit Card
+2026-02-06,10:06,Dallas Metro,Home & Kitchen,188.94,Cash
+2026-03-26,21:52,New York Flagship,Toys & Games,51.19,Credit Card
+2026-02-03,09:28,Denver Galleria,Electronics,1098.69,Debit Card
+2026-02-03,09:47,New York Flagship,Home & Kitchen,195.65,Debit Card
+2026-01-29,18:30,Denver Galleria,Home & Kitchen,264.87,Cash
+2026-03-02,21:49,Phoenix Desert-Ridge,Groceries & Food,88.34,Cash
+2026-02-09,12:13,Boston Commons,Home & Kitchen,288.77,Debit Card
+2026-02-22,10:05,Chicago Central,Groceries & Food,47.24,Debit Card
+2026-02-18,10:09,New York Flagship,Health & Beauty,76.41,Cash
+2026-02-06,17:44,Austin Tech-Ridge,Health & Beauty,52.91,Credit Card
+2026-02-28,21:48,Austin Tech-Ridge,Electronics,1210.60,Mobile Pay (UPI/Apple Pay)
+2026-01-18,16:18,Boston Commons,Toys & Games,100.86,Credit Card
+2026-02-28,11:40,New York Flagship,Toys & Games,82.87,Cash
+2026-01-02,17:03,Miami Beachwalk,Sports & Outdoors,55.53,Credit Card
+2026-01-01,19:39,Phoenix Desert-Ridge,Electronics,72.61,Credit Card
+2026-01-24,12:19,Dallas Metro,Sports & Outdoors,220.37,Mobile Pay (UPI/Apple Pay)
+2026-01-03,21:33,New York Flagship,Books & Media,70.20,Mobile Pay (UPI/Apple Pay)
+2026-02-05,10:16,San Francisco Downtown,Groceries & Food,12.83,Debit Card
+2026-02-04,15:50,Austin Tech-Ridge,Home & Kitchen,448.48,Mobile Pay (UPI/Apple Pay)
+2026-02-08,17:03,New York Flagship,Books & Media,52.04,Debit Card
+2026-03-10,18:13,Miami Beachwalk,Electronics,531.21,Cash
+2026-02-10,09:02,Chicago Central,Electronics,480.75,Credit Card
+2026-03-25,10:21,San Francisco Downtown,Home & Kitchen,143.66,Cash
+2026-01-18,19:18,Chicago Central,Groceries & Food,7.05,Debit Card
+2026-03-22,21:45,Denver Galleria,Health & Beauty,137.66,Cash
+2026-03-18,13:19,Los Angeles Plaza,Electronics,429.17,Debit Card
+2026-01-13,09:21,Atlanta Midtown,Books & Media,9.97,Credit Card
+2026-03-31,19:57,Dallas Metro,Sports & Outdoors,65.42,Mobile Pay (UPI/Apple Pay)
+2026-03-31,10:42,Austin Tech-Ridge,Toys & Games,101.17,Cash
+2026-01-17,16:43,Atlanta Midtown,Sports & Outdoors,343.92,Cash
+2026-01-04,17:05,Denver Galleria,Sports & Outdoors,191.12,Mobile Pay (UPI/Apple Pay)
+2026-01-15,10:55,Denver Galleria,Health & Beauty,39.25,Debit Card
+2026-01-08,19:24,Atlanta Midtown,Groceries & Food,24.96,Credit Card
+2026-03-16,19:14,Miami Beachwalk,Home & Kitchen,448.65,Cash
+2026-03-16,17:23,Los Angeles Plaza,Health & Beauty,108.42,Credit Card
+2026-03-03,12:51,Atlanta Midtown,Groceries & Food,44.76,Debit Card
+2026-02-12,13:44,Dallas Metro,Toys & Games,103.52,Credit Card
+2026-03-28,13:27,Miami Beachwalk,Groceries & Food,105.51,Debit Card
+2026-02-18,10:10,New York Flagship,Sports & Outdoors,248.35,Credit Card
+2026-01-08,15:40,New York Flagship,Groceries & Food,89.55,Debit Card
+2026-03-10,15:58,Phoenix Desert-Ridge,Health & Beauty,136.44,Cash
+2026-01-31,19:03,Austin Tech-Ridge,Sports & Outdoors,233.43,Cash
+2026-01-28,17:48,Seattle Pike-Place,Home & Kitchen,21.27,Credit Card
+2026-01-22,16:29,Phoenix Desert-Ridge,Clothing & Apparel,102.51,Credit Card
+2026-01-22,13:09,Chicago Central,Clothing & Apparel,41.48,Cash
+2026-03-11,13:55,San Francisco Downtown,Groceries & Food,132.68,Cash
+2026-01-11,09:10,Atlanta Midtown,Sports & Outdoors,301.35,Credit Card
+2026-03-26,15:27,Dallas Metro,Toys & Games,53.51,Mobile Pay (UPI/Apple Pay)
+2026-02-18,15:52,Seattle Pike-Place,Health & Beauty,22.41,Mobile Pay (UPI/Apple Pay)
+2026-02-18,15:40,Chicago Central,Electronics,728.20,Mobile Pay (UPI/Apple Pay)
+2026-02-18,11:36,Seattle Pike-Place,Health & Beauty,109.70,Debit Card
+2026-01-15,17:37,Miami Beachwalk,Home & Kitchen,78.16,Mobile Pay (UPI/Apple Pay)
+2026-02-17,10:26,Dallas Metro,Home & Kitchen,184.89,Debit Card
+2026-03-12,14:34,Dallas Metro,Clothing & Apparel,62.32,Cash
+2026-03-07,11:53,Dallas Metro,Groceries & Food,148.53,Mobile Pay (UPI/Apple Pay)
+2026-01-14,09:20,Dallas Metro,Groceries & Food,58.25,Credit Card
+2026-01-13,10:38,Dallas Metro,Books & Media,56.20,Cash
+2026-03-13,09:19,Los Angeles Plaza,Electronics,357.69,Cash
+2026-01-18,10:52,Seattle Pike-Place,Clothing & Apparel,168.03,Credit Card
+2026-03-27,12:53,Seattle Pike-Place,Home & Kitchen,306.04,Credit Card
+2026-01-02,20:51,Miami Beachwalk,Health & Beauty,35.22,Mobile Pay (UPI/Apple Pay)
+2026-01-10,20:55,New York Flagship,Home & Kitchen,287.36,Cash
+2026-03-24,15:58,Los Angeles Plaza,Toys & Games,41.23,Mobile Pay (UPI/Apple Pay)
+2026-02-07,09:25,New York Flagship,Sports & Outdoors,174.82,Mobile Pay (UPI/Apple Pay)
+2026-02-12,13:50,Austin Tech-Ridge,Clothing & Apparel,102.62,Mobile Pay (UPI/Apple Pay)
+2026-02-10,21:49,New York Flagship,Books & Media,19.64,Cash
+2026-03-05,17:57,Austin Tech-Ridge,Electronics,418.70,Credit Card
+2026-03-27,14:57,Dallas Metro,Home & Kitchen,306.20,Credit Card
+2026-03-28,18:37,Dallas Metro,Home & Kitchen,156.78,Cash
+2026-01-13,11:19,Los Angeles Plaza,Groceries & Food,95.73,Credit Card
+2026-03-07,19:10,Miami Beachwalk,Home & Kitchen,272.03,Mobile Pay (UPI/Apple Pay)
+2026-01-25,12:33,Miami Beachwalk,Health & Beauty,41.95,Debit Card
+2026-01-13,19:04,Atlanta Midtown,Books & Media,12.86,Cash
+2026-02-23,14:00,Dallas Metro,Toys & Games,22.51,Mobile Pay (UPI/Apple Pay)
+2026-02-17,15:28,Atlanta Midtown,Electronics,871.83,Cash
+2026-01-18,10:59,Dallas Metro,Clothing & Apparel,51.34,Credit Card
+2026-02-03,18:15,Seattle Pike-Place,Electronics,876.37,Credit Card
+2026-03-17,14:19,San Francisco Downtown,Books & Media,72.99,Cash
+2026-03-18,14:35,Denver Galleria,Home & Kitchen,337.65,Debit Card
+2026-01-04,16:27,Phoenix Desert-Ridge,Home & Kitchen,225.26,Cash
+2026-01-29,14:32,Austin Tech-Ridge,Sports & Outdoors,217.90,Debit Card
+2026-03-24,16:04,Seattle Pike-Place,Electronics,1018.99,Credit Card
+2026-01-23,12:05,New York Flagship,Health & Beauty,106.35,Cash
+2026-03-26,16:38,Los Angeles Plaza,Clothing & Apparel,190.79,Debit Card
+2026-02-10,18:39,New York Flagship,Toys & Games,84.17,Mobile Pay (UPI/Apple Pay)
+2026-01-12,21:42,Los Angeles Plaza,Electronics,1028.06,Credit Card
+2026-01-21,09:50,San Francisco Downtown,Toys & Games,82.01,Mobile Pay (UPI/Apple Pay)
+2026-03-11,16:11,Miami Beachwalk,Home & Kitchen,247.82,Debit Card
+2026-02-23,12:54,Miami Beachwalk,Electronics,1216.53,Cash
+2026-02-25,14:00,Miami Beachwalk,Toys & Games,100.36,Cash
+2026-03-16,12:25,Austin Tech-Ridge,Home & Kitchen,127.42,Credit Card
+2026-01-28,21:18,New York Flagship,Books & Media,46.04,Debit Card
+2026-01-01,19:26,Phoenix Desert-Ridge,Toys & Games,95.59,Debit Card
+2026-03-02,09:06,Seattle Pike-Place,Toys & Games,68.87,Cash
+2026-03-07,16:08,Los Angeles Plaza,Clothing & Apparel,109.84,Debit Card
+2026-03-23,11:01,Boston Commons,Sports & Outdoors,252.88,Debit Card
+2026-02-16,14:50,New York Flagship,Sports & Outdoors,36.32,Mobile Pay (UPI/Apple Pay)
+2026-03-25,13:31,Los Angeles Plaza,Electronics,889.97,Credit Card
+2026-02-01,19:54,San Francisco Downtown,Books & Media,45.66,Cash
+2026-03-15,15:17,Los Angeles Plaza,Electronics,1104.46,Mobile Pay (UPI/Apple Pay)
+2026-01-20,14:19,Phoenix Desert-Ridge,Health & Beauty,85.90,Credit Card
+2026-02-10,17:22,Denver Galleria,Electronics,1249.45,Mobile Pay (UPI/Apple Pay)
+2026-03-27,17:55,Miami Beachwalk,Groceries & Food,157.49,Credit Card
+2026-01-17,18:36,Austin Tech-Ridge,Electronics,1190.78,Mobile Pay (UPI/Apple Pay)
+2026-03-11,15:22,Atlanta Midtown,Sports & Outdoors,336.94,Mobile Pay (UPI/Apple Pay)
+2026-01-28,12:32,Phoenix Desert-Ridge,Health & Beauty,17.47,Mobile Pay (UPI/Apple Pay)
+2026-01-30,15:03,Denver Galleria,Home & Kitchen,129.44,Credit Card
+2026-02-08,21:39,Los Angeles Plaza,Home & Kitchen,34.23,Credit Card
+2026-01-12,16:18,Dallas Metro,Books & Media,48.18,Mobile Pay (UPI/Apple Pay)
+2026-01-31,09:11,Boston Commons,Sports & Outdoors,94.04,Credit Card
+2026-02-28,13:39,Denver Galleria,Groceries & Food,73.97,Mobile Pay (UPI/Apple Pay)
+2026-03-08,12:45,Atlanta Midtown,Sports & Outdoors,152.56,Cash
+2026-02-04,18:08,Los Angeles Plaza,Sports & Outdoors,222.03,Debit Card
+2026-03-29,13:23,Miami Beachwalk,Books & Media,77.41,Cash
+2026-02-06,09:15,Atlanta Midtown,Books & Media,81.00,Credit Card
+2026-02-13,13:06,Atlanta Midtown,Electronics,417.05,Debit Card
+2026-01-12,12:17,Atlanta Midtown,Health & Beauty,128.82,Debit Card
+2026-01-19,20:50,Atlanta Midtown,Electronics,1002.51,Cash
+2026-03-05,13:15,Denver Galleria,Toys & Games,74.00,Credit Card
+2026-03-03,17:54,New York Flagship,Sports & Outdoors,329.78,Cash
+2026-02-22,12:40,Austin Tech-Ridge,Sports & Outdoors,201.39,Credit Card
+2026-03-18,17:16,Boston Commons,Clothing & Apparel,26.69,Credit Card
+2026-01-25,14:03,Phoenix Desert-Ridge,Books & Media,71.91,Cash
+2026-01-28,12:13,Denver Galleria,Groceries & Food,126.27,Credit Card
+2026-02-11,21:50,Austin Tech-Ridge,Groceries & Food,5.83,Credit Card
+2026-03-09,19:29,Atlanta Midtown,Clothing & Apparel,186.96,Mobile Pay (UPI/Apple Pay)
+2026-01-17,10:34,Boston Commons,Toys & Games,94.97,Mobile Pay (UPI/Apple Pay)
+2026-02-22,09:32,Miami Beachwalk,Electronics,899.66,Cash
+2026-02-13,10:16,Boston Commons,Home & Kitchen,54.96,Debit Card
+2026-01-24,14:09,Boston Commons,Electronics,143.16,Mobile Pay (UPI/Apple Pay)
+2026-01-27,21:26,New York Flagship,Toys & Games,67.35,Debit Card
+2026-02-21,20:55,Denver Galleria,Toys & Games,42.74,Cash
+2026-02-19,16:36,Miami Beachwalk,Electronics,229.94,Cash
+2026-01-21,11:32,Atlanta Midtown,Sports & Outdoors,210.44,Cash
+2026-02-10,16:38,Seattle Pike-Place,Groceries & Food,64.96,Mobile Pay (UPI/Apple Pay)
+2026-03-24,17:02,Dallas Metro,Toys & Games,57.65,Cash
+2026-01-15,19:18,Phoenix Desert-Ridge,Groceries & Food,151.94,Debit Card
+2026-03-22,11:35,Phoenix Desert-Ridge,Groceries & Food,128.13,Mobile Pay (UPI/Apple Pay)
+2026-03-23,10:43,San Francisco Downtown,Groceries & Food,45.48,Mobile Pay (UPI/Apple Pay)
+2026-01-03,12:49,Seattle Pike-Place,Groceries & Food,41.30,Cash
+2026-03-04,20:16,Boston Commons,Health & Beauty,118.49,Credit Card
+2026-02-09,20:31,Chicago Central,Health & Beauty,47.36,Debit Card
+2026-02-04,10:28,New York Flagship,Home & Kitchen,33.74,Cash
+2026-02-11,16:15,Denver Galleria,Health & Beauty,85.58,Mobile Pay (UPI/Apple Pay)
+2026-03-11,10:51,Dallas Metro,Toys & Games,47.07,Cash
+2026-03-07,16:25,Miami Beachwalk,Groceries & Food,78.20,Cash
+2026-01-15,09:10,Phoenix Desert-Ridge,Books & Media,20.54,Debit Card
+2026-02-19,20:56,Dallas Metro,Sports & Outdoors,178.16,Debit Card
+2026-01-09,12:15,Boston Commons,Sports & Outdoors,361.57,Debit Card
+2026-03-22,18:55,Denver Galleria,Groceries & Food,50.92,Debit Card
+2026-01-02,21:30,Los Angeles Plaza,Health & Beauty,132.52,Mobile Pay (UPI/Apple Pay)
+2026-02-22,13:46,Boston Commons,Health & Beauty,119.77,Debit Card
+2026-03-01,21:03,Miami Beachwalk,Toys & Games,84.02,Debit Card
+2026-01-31,10:39,Miami Beachwalk,Clothing & Apparel,111.41,Credit Card
+2026-02-26,17:59,New York Flagship,Books & Media,43.17,Credit Card
+2026-03-30,21:13,Miami Beachwalk,Books & Media,29.25,Cash
+2026-01-28,19:46,Denver Galleria,Toys & Games,118.22,Debit Card
+2026-02-09,21:05,Miami Beachwalk,Sports & Outdoors,282.79,Credit Card
+2026-03-18,18:17,Seattle Pike-Place,Groceries & Food,146.11,Cash
+2026-02-18,13:56,Denver Galleria,Health & Beauty,105.70,Mobile Pay (UPI/Apple Pay)
+2026-01-30,12:58,Boston Commons,Health & Beauty,23.78,Debit Card
+2026-01-15,12:57,Miami Beachwalk,Health & Beauty,90.61,Credit Card
+2026-02-18,21:52,Austin Tech-Ridge,Clothing & Apparel,132.37,Debit Card
+2026-01-07,19:29,Los Angeles Plaza,Clothing & Apparel,170.81,Debit Card
+2026-03-09,15:37,Chicago Central,Electronics,474.74,Debit Card
+2026-03-05,18:48,San Francisco Downtown,Health & Beauty,116.22,Debit Card
+2026-02-16,19:42,Chicago Central,Electronics,800.44,Cash
+2026-01-07,18:51,Austin Tech-Ridge,Sports & Outdoors,62.15,Mobile Pay (UPI/Apple Pay)
+2026-03-19,20:45,Phoenix Desert-Ridge,Clothing & Apparel,36.32,Credit Card
+2026-02-10,11:33,Los Angeles Plaza,Home & Kitchen,266.27,Debit Card
+2026-01-08,14:59,Boston Commons,Books & Media,60.74,Debit Card
+2026-03-10,19:49,New York Flagship,Books & Media,34.25,Credit Card
+2026-03-02,13:53,Boston Commons,Health & Beauty,91.34,Credit Card
+2026-01-09,09:12,Miami Beachwalk,Home & Kitchen,415.45,Credit Card
+2026-02-09,19:13,Miami Beachwalk,Electronics,466.46,Credit Card
+2026-02-25,17:19,Boston Commons,Books & Media,43.57,Credit Card
+2026-01-11,11:07,Atlanta Midtown,Books & Media,27.94,Debit Card
+2026-03-26,09:10,Seattle Pike-Place,Clothing & Apparel,43.81,Mobile Pay (UPI/Apple Pay)
+2026-02-20,15:37,Boston Commons,Books & Media,9.82,Mobile Pay (UPI/Apple Pay)
+2026-02-16,16:55,Dallas Metro,Sports & Outdoors,169.34,Cash
+2026-03-13,12:28,Chicago Central,Home & Kitchen,117.95,Mobile Pay (UPI/Apple Pay)
+2026-01-23,19:23,Chicago Central,Groceries & Food,154.39,Credit Card
+2026-03-07,09:50,Austin Tech-Ridge,Clothing & Apparel,44.98,Debit Card
+2026-03-06,18:27,San Francisco Downtown,Home & Kitchen,150.48,Mobile Pay (UPI/Apple Pay)
+2026-02-07,16:10,Los Angeles Plaza,Home & Kitchen,94.73,Credit Card
+2026-02-14,17:54,Austin Tech-Ridge,Electronics,345.90,Mobile Pay (UPI/Apple Pay)
+2026-01-03,14:56,Atlanta Midtown,Sports & Outdoors,176.09,Credit Card
+2026-03-09,19:17,Denver Galleria,Health & Beauty,118.15,Debit Card
+2026-03-06,14:24,Atlanta Midtown,Sports & Outdoors,196.80,Debit Card
+2026-01-30,11:28,Dallas Metro,Health & Beauty,63.06,Mobile Pay (UPI/Apple Pay)
+2026-02-25,17:28,Atlanta Midtown,Clothing & Apparel,79.52,Mobile Pay (UPI/Apple Pay)
+2026-01-20,15:14,Austin Tech-Ridge,Home & Kitchen,403.99,Credit Card
+2026-03-06,19:05,Atlanta Midtown,Clothing & Apparel,151.65,Mobile Pay (UPI/Apple Pay)
+2026-03-13,20:37,Miami Beachwalk,Home & Kitchen,156.92,Debit Card
+2026-03-02,09:33,San Francisco Downtown,Health & Beauty,114.52,Mobile Pay (UPI/Apple Pay)
+2026-03-26,20:56,Atlanta Midtown,Groceries & Food,108.67,Mobile Pay (UPI/Apple Pay)
+2026-03-02,11:12,San Francisco Downtown,Clothing & Apparel,104.46,Credit Card
+2026-03-01,09:14,Seattle Pike-Place,Groceries & Food,6.30,Mobile Pay (UPI/Apple Pay)
+2026-01-11,11:30,Denver Galleria,Sports & Outdoors,111.65,Credit Card
+2026-01-11,20:35,Seattle Pike-Place,Health & Beauty,23.46,Cash
+2026-03-05,20:23,Seattle Pike-Place,Toys & Games,29.29,Cash
+2026-03-14,13:36,New York Flagship,Electronics,98.92,Cash
+2026-01-04,17:49,Boston Commons,Home & Kitchen,398.98,Cash
+2026-03-29,14:15,Denver Galleria,Health & Beauty,60.89,Credit Card
+2026-02-07,21:32,San Francisco Downtown,Sports & Outdoors,301.81,Debit Card
+2026-03-22,12:45,Atlanta Midtown,Clothing & Apparel,96.74,Debit Card
+2026-03-30,15:50,New York Flagship,Home & Kitchen,390.43,Cash
+2026-01-23,12:00,Los Angeles Plaza,Groceries & Food,93.03,Debit Card
+2026-02-23,12:56,Atlanta Midtown,Toys & Games,16.75,Cash
+2026-03-14,14:59,Miami Beachwalk,Health & Beauty,87.50,Credit Card
+2026-03-31,09:13,New York Flagship,Clothing & Apparel,188.97,Mobile Pay (UPI/Apple Pay)
+2026-03-09,13:01,Austin Tech-Ridge,Clothing & Apparel,98.82,Debit Card
+2026-01-21,15:05,Los Angeles Plaza,Groceries & Food,49.66,Credit Card
+2026-03-13,19:28,Miami Beachwalk,Books & Media,17.35,Credit Card
+2026-01-27,09:05,San Francisco Downtown,Electronics,673.22,Cash
+2026-02-22,09:14,Austin Tech-Ridge,Groceries & Food,155.03,Mobile Pay (UPI/Apple Pay)
+2026-03-09,19:12,Dallas Metro,Electronics,598.19,Credit Card
+2026-02-03,20:35,San Francisco Downtown,Groceries & Food,109.65,Mobile Pay (UPI/Apple Pay)
+2026-03-17,17:38,Seattle Pike-Place,Groceries & Food,91.98,Mobile Pay (UPI/Apple Pay)
+2026-03-10,18:59,New York Flagship,Sports & Outdoors,190.03,Credit Card
+2026-02-09,20:04,Los Angeles Plaza,Groceries & Food,124.89,Debit Card
+2026-02-12,11:18,Phoenix Desert-Ridge,Clothing & Apparel,48.96,Debit Card
+2026-03-18,20:09,Chicago Central,Electronics,532.49,Cash
+2026-01-06,20:12,New York Flagship,Books & Media,10.50,Mobile Pay (UPI/Apple Pay)
+2026-03-16,15:23,Los Angeles Plaza,Home & Kitchen,382.28,Mobile Pay (UPI/Apple Pay)
+2026-02-25,20:09,Dallas Metro,Health & Beauty,87.70,Cash
+2026-01-30,18:35,Seattle Pike-Place,Health & Beauty,126.69,Cash
+2026-03-14,11:06,Boston Commons,Electronics,957.19,Debit Card
+2026-03-17,16:38,Atlanta Midtown,Health & Beauty,18.61,Credit Card
+2026-01-06,14:17,New York Flagship,Sports & Outdoors,54.30,Cash
+2026-01-22,13:07,Phoenix Desert-Ridge,Electronics,764.57,Cash
+2026-03-09,20:36,Austin Tech-Ridge,Electronics,1076.67,Credit Card
+2026-02-19,17:10,Atlanta Midtown,Toys & Games,90.68,Debit Card
+2026-02-17,17:41,Austin Tech-Ridge,Toys & Games,12.12,Debit Card
+2026-01-28,17:36,Boston Commons,Electronics,1109.09,Debit Card
+2026-03-13,12:52,Atlanta Midtown,Clothing & Apparel,83.03,Debit Card
+2026-03-05,20:04,Miami Beachwalk,Toys & Games,52.95,Credit Card
+2026-02-04,20:07,San Francisco Downtown,Clothing & Apparel,82.81,Mobile Pay (UPI/Apple Pay)
+2026-01-09,18:08,Miami Beachwalk,Sports & Outdoors,28.07,Mobile Pay (UPI/Apple Pay)
+2026-03-14,16:48,Austin Tech-Ridge,Health & Beauty,51.87,Debit Card
+2026-02-04,16:17,New York Flagship,Toys & Games,61.18,Debit Card
+2026-01-11,13:53,Phoenix Desert-Ridge,Toys & Games,70.43,Cash
+2026-02-28,20:14,Miami Beachwalk,Groceries & Food,94.29,Credit Card
+2026-01-09,18:18,Austin Tech-Ridge,Groceries & Food,16.91,Debit Card
+2026-03-28,11:22,Boston Commons,Toys & Games,22.84,Cash
+2026-02-25,13:29,Chicago Central,Sports & Outdoors,187.22,Mobile Pay (UPI/Apple Pay)
+2026-01-22,10:24,Phoenix Desert-Ridge,Toys & Games,89.19,Debit Card
+2026-01-31,14:50,Los Angeles Plaza,Electronics,1163.38,Credit Card
+2026-01-01,11:28,San Francisco Downtown,Clothing & Apparel,43.93,Cash
+2026-02-23,10:48,Los Angeles Plaza,Sports & Outdoors,329.13,Cash
+2026-01-17,13:14,Atlanta Midtown,Books & Media,37.26,Credit Card
+2026-02-23,15:15,San Francisco Downtown,Toys & Games,83.14,Debit Card
+2026-02-08,11:27,Dallas Metro,Sports & Outdoors,272.90,Cash
+2026-01-31,16:13,Denver Galleria,Groceries & Food,128.76,Credit Card
+2026-03-05,18:26,Phoenix Desert-Ridge,Clothing & Apparel,43.67,Mobile Pay (UPI/Apple Pay)
+2026-01-01,09:05,New York Flagship,Clothing & Apparel,30.16,Credit Card
+2026-01-18,13:27,Atlanta Midtown,Sports & Outdoors,137.01,Cash
+2026-01-21,17:34,Los Angeles Plaza,Clothing & Apparel,60.88,Debit Card
+2026-01-27,10:28,San Francisco Downtown,Electronics,747.04,Debit Card
+2026-02-09,10:49,Seattle Pike-Place,Electronics,444.18,Mobile Pay (UPI/Apple Pay)
+2026-03-02,19:47,Denver Galleria,Electronics,725.05,Mobile Pay (UPI/Apple Pay)
+2026-03-07,12:16,Miami Beachwalk,Electronics,438.51,Credit Card
+2026-03-29,10:21,Atlanta Midtown,Groceries & Food,9.70,Cash
+2026-01-25,19:31,Austin Tech-Ridge,Health & Beauty,117.40,Debit Card
+2026-02-01,11:22,Boston Commons,Home & Kitchen,126.54,Cash
+2026-01-05,16:18,Miami Beachwalk,Home & Kitchen,66.98,Credit Card
+2026-03-29,15:43,Austin Tech-Ridge,Books & Media,19.84,Mobile Pay (UPI/Apple Pay)
+2026-02-08,11:10,Phoenix Desert-Ridge,Home & Kitchen,197.46,Mobile Pay (UPI/Apple Pay)
+2026-02-14,13:59,Phoenix Desert-Ridge,Sports & Outdoors,261.68,Mobile Pay (UPI/Apple Pay)
+2026-01-02,12:58,Miami Beachwalk,Books & Media,25.91,Cash
+2026-02-17,10:30,Phoenix Desert-Ridge,Health & Beauty,37.82,Cash
+2026-03-06,12:52,Denver Galleria,Electronics,584.53,Debit Card
+2026-03-04,12:58,Denver Galleria,Clothing & Apparel,103.46,Debit Card
+2026-01-17,16:57,New York Flagship,Toys & Games,13.93,Cash
+2026-01-24,13:38,Los Angeles Plaza,Clothing & Apparel,18.96,Debit Card
+2026-02-26,16:01,Chicago Central,Electronics,859.06,Debit Card
+2026-02-09,12:54,Boston Commons,Books & Media,61.11,Debit Card
+2026-02-26,16:17,San Francisco Downtown,Clothing & Apparel,36.21,Cash
+2026-01-03,18:50,Los Angeles Plaza,Electronics,543.84,Cash
+2026-01-29,14:32,Austin Tech-Ridge,Groceries & Food,98.67,Debit Card
+2026-02-11,20:50,Denver Galleria,Books & Media,71.55,Mobile Pay (UPI/Apple Pay)
+2026-01-18,19:57,Boston Commons,Electronics,895.94,Debit Card
+2026-01-11,13:49,Atlanta Midtown,Books & Media,33.61,Mobile Pay (UPI/Apple Pay)
+2026-03-08,14:39,Chicago Central,Health & Beauty,25.40,Debit Card
+2026-01-22,18:57,Atlanta Midtown,Groceries & Food,46.82,Cash
+2026-03-30,19:36,Seattle Pike-Place,Health & Beauty,25.29,Cash
+2026-02-01,12:34,Seattle Pike-Place,Books & Media,45.91,Credit Card
+2026-03-21,17:59,Miami Beachwalk,Toys & Games,88.99,Debit Card
+2026-03-18,17:14,Denver Galleria,Home & Kitchen,109.19,Mobile Pay (UPI/Apple Pay)
+2026-02-07,14:44,Seattle Pike-Place,Sports & Outdoors,65.05,Cash
+2026-03-18,12:24,Phoenix Desert-Ridge,Electronics,1191.38,Cash
+2026-03-07,11:54,Austin Tech-Ridge,Health & Beauty,95.57,Debit Card
+2026-01-04,10:48,New York Flagship,Sports & Outdoors,72.57,Mobile Pay (UPI/Apple Pay)
+2026-01-27,20:19,Austin Tech-Ridge,Sports & Outdoors,220.47,Debit Card
+2026-02-11,21:12,Chicago Central,Health & Beauty,64.37,Mobile Pay (UPI/Apple Pay)
+2026-03-18,12:48,Seattle Pike-Place,Clothing & Apparel,28.00,Mobile Pay (UPI/Apple Pay)
+2026-02-07,11:46,New York Flagship,Clothing & Apparel,31.14,Debit Card
+2026-01-01,09:42,Boston Commons,Health & Beauty,110.00,Mobile Pay (UPI/Apple Pay)
+2026-02-17,17:24,Phoenix Desert-Ridge,Home & Kitchen,23.71,Debit Card
+2026-02-10,11:44,Atlanta Midtown,Sports & Outdoors,369.78,Cash
+2026-01-01,21:43,Denver Galleria,Sports & Outdoors,287.02,Mobile Pay (UPI/Apple Pay)
+2026-02-10,17:38,Los Angeles Plaza,Sports & Outdoors,241.78,Mobile Pay (UPI/Apple Pay)
+2026-01-22,11:06,Denver Galleria,Groceries & Food,41.57,Cash
+2026-01-18,17:58,Atlanta Midtown,Health & Beauty,84.76,Credit Card
+2026-03-15,10:29,Seattle Pike-Place,Books & Media,19.72,Cash
+2026-02-08,14:54,Dallas Metro,Electronics,113.42,Credit Card
+2026-02-12,15:50,Dallas Metro,Health & Beauty,102.94,Debit Card
+2026-03-01,20:00,Austin Tech-Ridge,Home & Kitchen,62.68,Credit Card
+2026-03-12,21:08,Phoenix Desert-Ridge,Books & Media,21.37,Cash
+2026-03-15,14:41,Boston Commons,Electronics,472.02,Cash
+2026-03-12,21:20,Phoenix Desert-Ridge,Toys & Games,24.28,Cash
+2026-01-23,10:54,Dallas Metro,Sports & Outdoors,89.36,Credit Card
+2026-02-12,13:33,New York Flagship,Toys & Games,34.37,Credit Card
+2026-02-09,11:20,Seattle Pike-Place,Sports & Outdoors,260.30,Mobile Pay (UPI/Apple Pay)
+2026-01-20,16:38,Denver Galleria,Books & Media,44.68,Credit Card
+2026-03-28,18:51,San Francisco Downtown,Electronics,1159.63,Cash
+2026-03-27,20:48,Boston Commons,Toys & Games,28.38,Credit Card
+2026-02-14,16:34,Los Angeles Plaza,Health & Beauty,81.19,Cash
+2026-01-01,10:45,Phoenix Desert-Ridge,Sports & Outdoors,268.96,Cash
+2026-01-31,21:21,Austin Tech-Ridge,Books & Media,26.44,Debit Card
+2026-02-26,18:38,Chicago Central,Home & Kitchen,312.20,Mobile Pay (UPI/Apple Pay)
+2026-03-14,19:39,Chicago Central,Groceries & Food,139.52,Credit Card
+2026-02-04,19:15,Atlanta Midtown,Books & Media,41.32,Cash
+2026-02-21,13:04,Denver Galleria,Clothing & Apparel,147.86,Cash
+2026-03-23,14:39,Boston Commons,Books & Media,58.63,Credit Card
+2026-01-20,10:26,Austin Tech-Ridge,Sports & Outdoors,184.15,Cash
+2026-03-13,12:57,Phoenix Desert-Ridge,Electronics,1079.81,Mobile Pay (UPI/Apple Pay)
+2026-02-10,21:33,Los Angeles Plaza,Toys & Games,89.83,Debit Card
+2026-02-10,11:48,Phoenix Desert-Ridge,Sports & Outdoors,280.15,Debit Card
+2026-02-11,09:57,Los Angeles Plaza,Groceries & Food,65.88,Credit Card
+2026-02-19,11:55,Seattle Pike-Place,Electronics,1120.72,Cash
+2026-03-07,20:35,Miami Beachwalk,Sports & Outdoors,302.34,Debit Card
+2026-01-05,18:35,Atlanta Midtown,Toys & Games,34.77,Cash
+2026-03-01,09:49,Phoenix Desert-Ridge,Books & Media,53.62,Cash
+2026-03-07,12:38,Boston Commons,Toys & Games,54.59,Credit Card
+2026-03-08,14:29,Chicago Central,Clothing & Apparel,194.64,Cash
+2026-02-19,15:06,Miami Beachwalk,Books & Media,18.28,Mobile Pay (UPI/Apple Pay)
+2026-01-03,11:09,Austin Tech-Ridge,Health & Beauty,133.34,Credit Card
+2026-01-14,12:10,Austin Tech-Ridge,Sports & Outdoors,244.96,Cash
+2026-03-14,09:06,Miami Beachwalk,Electronics,523.89,Debit Card
+2026-01-15,13:44,New York Flagship,Health & Beauty,111.22,Debit Card
+2026-01-04,16:16,Dallas Metro,Electronics,1232.66,Mobile Pay (UPI/Apple Pay)
+2026-03-30,16:02,Miami Beachwalk,Home & Kitchen,357.11,Cash
+2026-03-28,17:03,Phoenix Desert-Ridge,Groceries & Food,121.04,Credit Card
+2026-03-15,20:38,Los Angeles Plaza,Groceries & Food,98.57,Mobile Pay (UPI/Apple Pay)
+2026-02-25,11:41,New York Flagship,Home & Kitchen,139.83,Mobile Pay (UPI/Apple Pay)
+2026-01-08,14:50,New York Flagship,Sports & Outdoors,151.93,Credit Card
+2026-03-23,09:02,Los Angeles Plaza,Groceries & Food,28.89,Debit Card
+2026-03-13,14:39,Seattle Pike-Place,Home & Kitchen,447.82,Debit Card
+2026-01-11,14:56,Phoenix Desert-Ridge,Groceries & Food,115.22,Debit Card
+2026-03-08,15:53,Denver Galleria,Toys & Games,39.23,Debit Card
+2026-03-25,15:57,Atlanta Midtown,Home & Kitchen,105.04,Cash
+2026-02-13,15:36,Austin Tech-Ridge,Electronics,961.43,Debit Card
+2026-02-07,11:19,Los Angeles Plaza,Health & Beauty,36.78,Cash
+2026-03-08,09:43,Phoenix Desert-Ridge,Electronics,898.11,Cash
+2026-03-27,10:05,New York Flagship,Health & Beauty,73.93,Mobile Pay (UPI/Apple Pay)
+2026-02-10,16:03,Atlanta Midtown,Groceries & Food,141.85,Cash
+2026-02-22,12:47,Atlanta Midtown,Books & Media,62.36,Cash
+2026-03-12,14:51,New York Flagship,Books & Media,38.05,Mobile Pay (UPI/Apple Pay)
+2026-01-28,14:47,Austin Tech-Ridge,Sports & Outdoors,248.09,Cash
+2026-03-24,13:12,Denver Galleria,Health & Beauty,34.28,Credit Card
+2026-01-16,11:31,Atlanta Midtown,Toys & Games,114.07,Cash
+2026-01-17,17:39,Boston Commons,Home & Kitchen,230.80,Cash
+2026-01-06,13:11,Denver Galleria,Books & Media,29.84,Credit Card
+2026-01-22,20:20,Phoenix Desert-Ridge,Clothing & Apparel,129.36,Mobile Pay (UPI/Apple Pay)
+2026-03-13,13:35,Austin Tech-Ridge,Groceries & Food,42.28,Mobile Pay (UPI/Apple Pay)
+2026-01-30,10:23,New York Flagship,Electronics,839.79,Mobile Pay (UPI/Apple Pay)
+2026-01-08,20:37,Phoenix Desert-Ridge,Toys & Games,41.17,Debit Card
+2026-02-01,10:17,Atlanta Midtown,Health & Beauty,22.36,Debit Card
+2026-01-17,20:14,Dallas Metro,Electronics,140.27,Mobile Pay (UPI/Apple Pay)
+2026-01-15,18:38,Boston Commons,Groceries & Food,53.26,Cash
+2026-01-06,13:13,Miami Beachwalk,Health & Beauty,104.82,Cash
+2026-02-21,17:48,Austin Tech-Ridge,Health & Beauty,72.69,Cash
+2026-03-20,13:39,Los Angeles Plaza,Electronics,894.49,Cash
+2026-02-15,10:41,Denver Galleria,Toys & Games,37.88,Debit Card
+2026-01-08,19:57,Phoenix Desert-Ridge,Clothing & Apparel,197.26,Credit Card
+2026-02-05,19:41,Austin Tech-Ridge,Groceries & Food,137.35,Cash
+2026-02-05,09:37,Austin Tech-Ridge,Sports & Outdoors,303.58,Cash
+2026-03-15,15:19,Boston Commons,Books & Media,84.57,Cash
+2026-01-06,15:28,Boston Commons,Electronics,981.40,Mobile Pay (UPI/Apple Pay)
+2026-01-06,17:25,Seattle Pike-Place,Groceries & Food,152.69,Mobile Pay (UPI/Apple Pay)
+2026-03-19,20:15,Chicago Central,Home & Kitchen,153.00,Credit Card
+2026-02-20,09:46,Dallas Metro,Toys & Games,70.67,Mobile Pay (UPI/Apple Pay)
+2026-01-21,18:41,Phoenix Desert-Ridge,Clothing & Apparel,207.20,Debit Card
+2026-01-17,18:35,San Francisco Downtown,Sports & Outdoors,318.63,Debit Card
+2026-02-13,13:32,Austin Tech-Ridge,Health & Beauty,130.16,Mobile Pay (UPI/Apple Pay)
+2026-03-26,19:17,Austin Tech-Ridge,Clothing & Apparel,94.36,Mobile Pay (UPI/Apple Pay)
+2026-01-09,10:37,Los Angeles Plaza,Electronics,354.36,Credit Card
+2026-03-08,13:45,Los Angeles Plaza,Books & Media,58.93,Cash
+2026-02-12,11:15,San Francisco Downtown,Toys & Games,40.82,Debit Card
+2026-02-21,19:08,Atlanta Midtown,Clothing & Apparel,172.12,Credit Card
+2026-02-28,13:35,San Francisco Downtown,Toys & Games,89.29,Cash
+2026-01-30,12:50,Seattle Pike-Place,Electronics,1069.95,Debit Card
+2026-03-05,09:51,Seattle Pike-Place,Home & Kitchen,183.49,Debit Card
+2026-01-16,13:31,Seattle Pike-Place,Clothing & Apparel,147.82,Debit Card
+2026-02-12,13:21,Boston Commons,Electronics,1237.30,Credit Card
+2026-02-03,13:38,Los Angeles Plaza,Sports & Outdoors,80.21,Mobile Pay (UPI/Apple Pay)
+2026-03-23,10:10,Miami Beachwalk,Electronics,613.72,Cash
+2026-03-10,10:43,Miami Beachwalk,Books & Media,36.23,Credit Card
+2026-02-09,17:10,New York Flagship,Health & Beauty,61.40,Cash
+2026-02-18,19:20,Austin Tech-Ridge,Groceries & Food,6.32,Debit Card
+2026-02-16,12:25,Boston Commons,Groceries & Food,154.58,Credit Card
+2026-01-01,09:24,Atlanta Midtown,Health & Beauty,99.85,Credit Card
+2026-02-21,18:56,New York Flagship,Sports & Outdoors,389.98,Cash
+2026-01-13,13:43,Austin Tech-Ridge,Sports & Outdoors,382.99,Credit Card
+2026-02-22,20:29,Atlanta Midtown,Toys & Games,59.51,Mobile Pay (UPI/Apple Pay)
+2026-01-21,10:23,San Francisco Downtown,Toys & Games,36.30,Debit Card
+2026-02-10,18:37,Denver Galleria,Sports & Outdoors,199.34,Credit Card
+2026-02-23,13:50,Los Angeles Plaza,Toys & Games,53.58,Credit Card
+2026-02-01,11:45,Boston Commons,Electronics,267.09,Mobile Pay (UPI/Apple Pay)
+2026-01-19,16:05,New York Flagship,Health & Beauty,103.30,Mobile Pay (UPI/Apple Pay)
+2026-01-19,16:48,Los Angeles Plaza,Sports & Outdoors,40.56,Debit Card
+2026-01-17,20:01,Phoenix Desert-Ridge,Clothing & Apparel,23.37,Mobile Pay (UPI/Apple Pay)
+2026-02-27,15:44,Austin Tech-Ridge,Electronics,578.24,Mobile Pay (UPI/Apple Pay)
+2026-01-11,12:35,Denver Galleria,Groceries & Food,43.86,Debit Card
+2026-01-03,21:14,San Francisco Downtown,Clothing & Apparel,64.17,Mobile Pay (UPI/Apple Pay)
+2026-03-22,17:38,Denver Galleria,Home & Kitchen,350.52,Cash
+2026-02-20,17:29,Denver Galleria,Health & Beauty,114.23,Mobile Pay (UPI/Apple Pay)
+2026-03-03,20:55,San Francisco Downtown,Groceries & Food,86.97,Mobile Pay (UPI/Apple Pay)
+2026-02-12,21:04,Chicago Central,Health & Beauty,125.17,Cash
+2026-03-11,17:17,Atlanta Midtown,Electronics,1217.59,Cash
+2026-02-14,09:41,Miami Beachwalk,Electronics,147.64,Mobile Pay (UPI/Apple Pay)
+2026-02-17,17:00,San Francisco Downtown,Sports & Outdoors,132.59,Mobile Pay (UPI/Apple Pay)
+2026-03-07,20:50,Dallas Metro,Toys & Games,104.49,Mobile Pay (UPI/Apple Pay)
+2026-03-28,12:01,Phoenix Desert-Ridge,Groceries & Food,127.69,Debit Card
+2026-03-15,14:15,Atlanta Midtown,Health & Beauty,71.26,Mobile Pay (UPI/Apple Pay)
+2026-01-03,18:50,San Francisco Downtown,Electronics,159.36,Cash
+2026-02-23,16:02,Denver Galleria,Sports & Outdoors,58.93,Cash
+2026-02-02,20:29,Denver Galleria,Health & Beauty,42.31,Credit Card
+2026-03-27,20:47,New York Flagship,Home & Kitchen,353.87,Debit Card
+2026-01-10,18:25,Phoenix Desert-Ridge,Toys & Games,64.45,Cash
+2026-02-14,19:23,Phoenix Desert-Ridge,Health & Beauty,88.28,Cash
+2026-03-19,14:55,Miami Beachwalk,Electronics,140.94,Credit Card
+2026-03-26,21:57,Chicago Central,Books & Media,64.46,Cash
+2026-02-18,15:12,Chicago Central,Sports & Outdoors,171.24,Debit Card
+2026-02-18,16:51,Denver Galleria,Health & Beauty,102.21,Mobile Pay (UPI/Apple Pay)
+2026-03-29,19:03,Atlanta Midtown,Home & Kitchen,375.51,Cash
+2026-02-25,16:00,Atlanta Midtown,Clothing & Apparel,182.37,Credit Card
+2026-03-07,16:37,Boston Commons,Sports & Outdoors,65.71,Mobile Pay (UPI/Apple Pay)
+2026-01-31,15:49,Phoenix Desert-Ridge,Electronics,114.23,Mobile Pay (UPI/Apple Pay)
+2026-02-09,17:46,Los Angeles Plaza,Clothing & Apparel,90.86,Mobile Pay (UPI/Apple Pay)
+2026-02-07,14:35,Denver Galleria,Electronics,937.40,Cash
+2026-03-01,09:49,Seattle Pike-Place,Home & Kitchen,446.49,Debit Card
+2026-01-20,10:28,Chicago Central,Sports & Outdoors,123.05,Mobile Pay (UPI/Apple Pay)
+2026-02-06,16:56,Denver Galleria,Books & Media,63.80,Debit Card
+2026-02-06,15:23,Dallas Metro,Toys & Games,65.49,Credit Card
+2026-02-16,17:22,New York Flagship,Sports & Outdoors,96.07,Credit Card
+2026-03-31,11:11,Los Angeles Plaza,Sports & Outdoors,70.66,Debit Card
+2026-02-22,14:58,San Francisco Downtown,Groceries & Food,6.90,Cash
+2026-01-09,13:27,Atlanta Midtown,Sports & Outdoors,133.88,Cash
+2026-01-31,15:07,Chicago Central,Groceries & Food,43.07,Debit Card
+2026-01-27,13:02,Austin Tech-Ridge,Books & Media,45.96,Mobile Pay (UPI/Apple Pay)
+2026-03-08,19:29,New York Flagship,Sports & Outdoors,177.61,Mobile Pay (UPI/Apple Pay)
+2026-03-28,13:08,Denver Galleria,Sports & Outdoors,376.16,Credit Card
+2026-02-22,21:27,Chicago Central,Home & Kitchen,410.62,Mobile Pay (UPI/Apple Pay)
+2026-03-24,12:29,Dallas Metro,Electronics,850.29,Cash
+2026-02-04,16:20,San Francisco Downtown,Home & Kitchen,357.68,Mobile Pay (UPI/Apple Pay)
+2026-01-07,12:43,Miami Beachwalk,Books & Media,40.70,Credit Card
+2026-02-15,17:13,Chicago Central,Sports & Outdoors,56.25,Debit Card
+2026-03-15,15:06,Boston Commons,Clothing & Apparel,21.00,Mobile Pay (UPI/Apple Pay)
+2026-01-10,13:31,Denver Galleria,Health & Beauty,48.93,Cash
+2026-02-16,11:15,Denver Galleria,Clothing & Apparel,143.20,Cash
+2026-01-29,18:53,Dallas Metro,Clothing & Apparel,42.29,Debit Card
+2026-03-01,13:12,Boston Commons,Groceries & Food,45.88,Mobile Pay (UPI/Apple Pay)
+2026-01-04,17:54,Atlanta Midtown,Clothing & Apparel,35.77,Credit Card
+2026-02-08,15:25,Los Angeles Plaza,Clothing & Apparel,203.85,Mobile Pay (UPI/Apple Pay)
+2026-02-08,21:04,Austin Tech-Ridge,Sports & Outdoors,172.07,Credit Card
+2026-03-05,14:38,Boston Commons,Books & Media,84.48,Cash
+2026-02-18,15:38,Phoenix Desert-Ridge,Groceries & Food,55.18,Mobile Pay (UPI/Apple Pay)
+2026-03-12,17:39,Miami Beachwalk,Sports & Outdoors,366.73,Mobile Pay (UPI/Apple Pay)
+2026-02-16,10:48,Boston Commons,Home & Kitchen,238.62,Cash
+2026-01-27,09:14,Atlanta Midtown,Clothing & Apparel,75.58,Mobile Pay (UPI/Apple Pay)
+2026-01-15,11:45,Dallas Metro,Books & Media,74.22,Credit Card
+2026-03-27,20:27,Dallas Metro,Books & Media,40.98,Mobile Pay (UPI/Apple Pay)
+2026-03-21,19:52,Seattle Pike-Place,Clothing & Apparel,133.36,Cash
+2026-03-11,13:47,Chicago Central,Health & Beauty,31.60,Mobile Pay (UPI/Apple Pay)
+2026-02-19,15:35,Chicago Central,Sports & Outdoors,27.55,Credit Card
+2026-01-26,18:51,Chicago Central,Groceries & Food,56.89,Credit Card
+2026-03-10,16:30,Chicago Central,Electronics,596.37,Debit Card
+2026-03-26,21:25,Atlanta Midtown,Groceries & Food,27.23,Mobile Pay (UPI/Apple Pay)
+2026-02-01,15:32,Chicago Central,Clothing & Apparel,63.78,Debit Card
+2026-02-01,17:54,Dallas Metro,Electronics,914.03,Cash
+2026-03-14,17:38,Phoenix Desert-Ridge,Health & Beauty,120.45,Cash
+2026-02-20,10:36,Chicago Central,Sports & Outdoors,236.52,Credit Card
+2026-02-25,16:18,Los Angeles Plaza,Clothing & Apparel,167.75,Cash
+2026-01-09,21:44,San Francisco Downtown,Electronics,281.54,Cash
+2026-02-16,12:21,San Francisco Downtown,Toys & Games,53.58,Cash
+2026-02-16,09:37,Austin Tech-Ridge,Clothing & Apparel,169.34,Cash
+2026-02-22,10:14,Atlanta Midtown,Electronics,902.20,Mobile Pay (UPI/Apple Pay)
+2026-02-25,15:58,Denver Galleria,Clothing & Apparel,126.80,Credit Card
+2026-01-29,20:09,Chicago Central,Books & Media,65.65,Mobile Pay (UPI/Apple Pay)
+2026-03-03,21:47,Phoenix Desert-Ridge,Health & Beauty,36.91,Cash
+2026-01-07,13:18,Dallas Metro,Electronics,482.17,Cash
+2026-01-16,17:32,Boston Commons,Books & Media,34.36,Mobile Pay (UPI/Apple Pay)
+2026-03-27,17:32,Austin Tech-Ridge,Books & Media,65.14,Cash
+2026-01-13,16:24,Austin Tech-Ridge,Sports & Outdoors,199.70,Cash
+2026-01-06,13:52,Atlanta Midtown,Electronics,77.92,Credit Card
+2026-01-04,11:29,Chicago Central,Books & Media,82.29,Mobile Pay (UPI/Apple Pay)
+2026-03-11,11:07,Dallas Metro,Books & Media,26.53,Mobile Pay (UPI/Apple Pay)
+2026-03-04,21:40,Dallas Metro,Groceries & Food,99.78,Debit Card
+2026-03-15,14:45,Dallas Metro,Electronics,1033.34,Cash
+2026-01-21,16:02,Los Angeles Plaza,Home & Kitchen,109.02,Cash
+2026-02-04,14:31,Chicago Central,Electronics,191.30,Credit Card
+2026-03-21,20:18,Boston Commons,Sports & Outdoors,257.35,Cash
+2026-02-20,21:46,Austin Tech-Ridge,Groceries & Food,147.57,Mobile Pay (UPI/Apple Pay)
+2026-01-09,16:32,Atlanta Midtown,Sports & Outdoors,278.88,Mobile Pay (UPI/Apple Pay)
+2026-02-25,18:29,Atlanta Midtown,Health & Beauty,77.23,Mobile Pay (UPI/Apple Pay)
+2026-03-18,17:17,Denver Galleria,Health & Beauty,61.34,Debit Card
+2026-01-01,17:49,Phoenix Desert-Ridge,Clothing & Apparel,151.39,Credit Card
+2026-02-08,09:28,Dallas Metro,Home & Kitchen,199.11,Mobile Pay (UPI/Apple Pay)
+2026-01-14,09:32,Boston Commons,Electronics,995.75,Cash
+2026-02-01,11:47,Los Angeles Plaza,Clothing & Apparel,213.82,Credit Card
+2026-03-26,14:31,Austin Tech-Ridge,Health & Beauty,20.72,Mobile Pay (UPI/Apple Pay)
+2026-01-24,16:04,Denver Galleria,Electronics,1172.08,Debit Card
+2026-02-20,20:24,Seattle Pike-Place,Home & Kitchen,33.00,Credit Card
+2026-03-29,10:12,Denver Galleria,Health & Beauty,33.88,Cash
+2026-03-02,10:52,Austin Tech-Ridge,Home & Kitchen,279.63,Cash
+2026-01-04,21:37,Denver Galleria,Electronics,431.59,Debit Card
+2026-02-18,13:42,San Francisco Downtown,Health & Beauty,55.69,Debit Card
+2026-01-23,10:50,Dallas Metro,Books & Media,10.48,Mobile Pay (UPI/Apple Pay)
+2026-03-05,14:18,Denver Galleria,Toys & Games,61.76,Debit Card
+2026-03-08,14:40,Dallas Metro,Sports & Outdoors,215.14,Mobile Pay (UPI/Apple Pay)
+2026-01-18,16:12,Chicago Central,Electronics,579.01,Cash
+2026-03-26,09:33,Boston Commons,Sports & Outdoors,370.73,Cash
+2026-01-15,11:35,Chicago Central,Books & Media,36.37,Debit Card
+2026-01-04,18:31,Phoenix Desert-Ridge,Health & Beauty,124.41,Mobile Pay (UPI/Apple Pay)
+2026-03-04,17:50,San Francisco Downtown,Electronics,1019.03,Mobile Pay (UPI/Apple Pay)
+2026-01-11,14:03,Denver Galleria,Sports & Outdoors,145.32,Cash
+2026-02-24,17:08,Miami Beachwalk,Electronics,1199.18,Credit Card
+2026-01-31,19:07,Chicago Central,Toys & Games,73.56,Cash
+2026-03-29,21:16,Dallas Metro,Groceries & Food,42.06,Mobile Pay (UPI/Apple Pay)
+2026-03-02,16:13,Miami Beachwalk,Clothing & Apparel,79.22,Debit Card
+2026-03-29,20:25,Denver Galleria,Toys & Games,119.80,Debit Card
+2026-01-17,12:37,Phoenix Desert-Ridge,Clothing & Apparel,182.67,Debit Card
+2026-02-27,09:17,Austin Tech-Ridge,Books & Media,37.91,Credit Card
+2026-01-22,21:25,Denver Galleria,Books & Media,44.04,Cash
+2026-01-10,17:35,New York Flagship,Health & Beauty,137.37,Credit Card
+2026-03-11,09:02,Phoenix Desert-Ridge,Home & Kitchen,303.46,Mobile Pay (UPI/Apple Pay)
+2026-02-09,16:34,Atlanta Midtown,Clothing & Apparel,189.91,Cash
+2026-02-27,14:29,San Francisco Downtown,Health & Beauty,122.09,Credit Card
+2026-01-22,09:30,Phoenix Desert-Ridge,Electronics,1092.14,Debit Card
+2026-01-22,20:22,San Francisco Downtown,Clothing & Apparel,192.63,Mobile Pay (UPI/Apple Pay)
+2026-01-20,12:38,Atlanta Midtown,Clothing & Apparel,217.46,Cash
+2026-01-14,13:05,Atlanta Midtown,Toys & Games,72.28,Mobile Pay (UPI/Apple Pay)
+2026-01-10,17:18,New York Flagship,Health & Beauty,73.33,Mobile Pay (UPI/Apple Pay)
+2026-03-26,09:01,San Francisco Downtown,Toys & Games,86.73,Debit Card
+2026-03-20,17:25,San Francisco Downtown,Clothing & Apparel,90.56,Mobile Pay (UPI/Apple Pay)
+2026-03-16,21:07,Seattle Pike-Place,Books & Media,15.10,Debit Card
+2026-02-19,14:00,Austin Tech-Ridge,Sports & Outdoors,190.49,Debit Card
+2026-03-14,13:28,Seattle Pike-Place,Health & Beauty,82.50,Cash
+2026-01-26,09:57,Denver Galleria,Home & Kitchen,363.95,Credit Card
+2026-03-04,18:15,Denver Galleria,Toys & Games,106.96,Cash
+2026-01-15,16:46,Miami Beachwalk,Health & Beauty,130.63,Credit Card
+2026-01-13,10:52,Phoenix Desert-Ridge,Sports & Outdoors,37.85,Debit Card
+2026-03-09,10:12,Seattle Pike-Place,Books & Media,71.93,Mobile Pay (UPI/Apple Pay)
+2026-01-09,19:05,Los Angeles Plaza,Books & Media,76.35,Credit Card
+2026-02-01,16:01,Chicago Central,Health & Beauty,35.70,Mobile Pay (UPI/Apple Pay)
+2026-02-14,11:38,Phoenix Desert-Ridge,Toys & Games,42.03,Cash
+2026-01-22,12:46,New York Flagship,Groceries & Food,26.92,Mobile Pay (UPI/Apple Pay)
+2026-02-23,21:06,Seattle Pike-Place,Books & Media,77.40,Cash
+2026-01-26,10:38,Dallas Metro,Clothing & Apparel,109.95,Debit Card
+2026-01-25,13:32,Chicago Central,Home & Kitchen,90.83,Mobile Pay (UPI/Apple Pay)
+2026-02-07,21:43,Phoenix Desert-Ridge,Groceries & Food,132.07,Mobile Pay (UPI/Apple Pay)
+2026-03-04,13:22,Denver Galleria,Books & Media,53.64,Cash
+2026-03-10,20:27,Phoenix Desert-Ridge,Clothing & Apparel,54.70,Debit Card
+2026-03-28,14:48,Dallas Metro,Clothing & Apparel,27.59,Debit Card
+2026-02-05,16:29,Chicago Central,Sports & Outdoors,105.59,Mobile Pay (UPI/Apple Pay)
+2026-02-06,15:43,Los Angeles Plaza,Electronics,579.10,Credit Card
+2026-03-24,15:11,Austin Tech-Ridge,Clothing & Apparel,101.77,Cash
+2026-02-23,14:16,Dallas Metro,Groceries & Food,149.72,Debit Card
+2026-03-18,15:26,Boston Commons,Health & Beauty,96.82,Cash
+2026-02-21,16:29,New York Flagship,Groceries & Food,48.72,Cash
+2026-03-01,15:41,Miami Beachwalk,Toys & Games,68.02,Mobile Pay (UPI/Apple Pay)
+2026-01-16,17:52,Dallas Metro,Books & Media,84.72,Mobile Pay (UPI/Apple Pay)
+2026-01-14,20:42,Atlanta Midtown,Clothing & Apparel,164.13,Mobile Pay (UPI/Apple Pay)
+2026-03-25,09:12,Los Angeles Plaza,Books & Media,66.18,Credit Card
+2026-03-11,09:19,Austin Tech-Ridge,Toys & Games,67.74,Cash
+2026-01-31,16:58,Chicago Central,Sports & Outdoors,107.36,Cash
+2026-03-24,17:54,San Francisco Downtown,Toys & Games,50.36,Debit Card
+2026-03-13,14:16,New York Flagship,Home & Kitchen,330.52,Mobile Pay (UPI/Apple Pay)
+2026-02-06,20:36,Denver Galleria,Clothing & Apparel,125.34,Debit Card
+2026-03-17,12:05,Denver Galleria,Toys & Games,18.19,Credit Card
+2026-03-01,20:10,San Francisco Downtown,Toys & Games,41.80,Debit Card
+2026-03-20,10:06,Chicago Central,Home & Kitchen,348.67,Mobile Pay (UPI/Apple Pay)
+2026-02-18,16:31,Seattle Pike-Place,Home & Kitchen,202.98,Cash
+2026-03-20,09:49,Dallas Metro,Sports & Outdoors,60.95,Credit Card
+2026-01-04,16:35,Boston Commons,Home & Kitchen,257.29,Credit Card
+2026-01-21,11:40,Denver Galleria,Toys & Games,43.70,Debit Card
+2026-01-31,20:14,Boston Commons,Electronics,584.30,Mobile Pay (UPI/Apple Pay)
+2026-01-17,19:55,Boston Commons,Books & Media,17.17,Cash
+2026-02-10,21:27,Denver Galleria,Electronics,637.80,Cash
+2026-03-07,12:48,Los Angeles Plaza,Sports & Outdoors,282.13,Cash
+2026-01-10,18:44,Chicago Central,Home & Kitchen,80.04,Mobile Pay (UPI/Apple Pay)
+2026-01-12,21:12,Dallas Metro,Sports & Outdoors,78.59,Mobile Pay (UPI/Apple Pay)
+2026-02-09,19:24,Boston Commons,Groceries & Food,56.91,Cash
+2026-01-31,16:52,Chicago Central,Electronics,1129.09,Debit Card
+2026-01-07,15:11,Dallas Metro,Health & Beauty,102.83,Mobile Pay (UPI/Apple Pay)
+2026-02-02,21:18,Boston Commons,Toys & Games,97.44,Debit Card
+2026-03-09,11:13,Los Angeles Plaza,Sports & Outdoors,229.94,Mobile Pay (UPI/Apple Pay)
+2026-02-24,15:23,Seattle Pike-Place,Home & Kitchen,45.57,Cash
+2026-01-24,11:05,Chicago Central,Health & Beauty,32.66,Mobile Pay (UPI/Apple Pay)
+2026-01-10,13:54,Chicago Central,Toys & Games,17.88,Cash
+2026-03-15,15:07,Boston Commons,Electronics,1095.05,Credit Card
+2026-02-03,14:58,Los Angeles Plaza,Groceries & Food,6.07,Mobile Pay (UPI/Apple Pay)
+2026-03-23,19:11,Boston Commons,Groceries & Food,103.76,Mobile Pay (UPI/Apple Pay)
+2026-03-08,09:28,Chicago Central,Clothing & Apparel,140.90,Cash
+2026-03-15,19:52,Boston Commons,Clothing & Apparel,214.74,Mobile Pay (UPI/Apple Pay)
+2026-02-21,17:34,Phoenix Desert-Ridge,Health & Beauty,30.79,Mobile Pay (UPI/Apple Pay)
+2026-03-08,20:19,Chicago Central,Toys & Games,98.30,Mobile Pay (UPI/Apple Pay)
+2026-01-24,16:11,Austin Tech-Ridge,Toys & Games,98.71,Mobile Pay (UPI/Apple Pay)
+2026-01-10,16:20,Seattle Pike-Place,Toys & Games,27.80,Cash
+2026-01-28,13:30,Miami Beachwalk,Groceries & Food,135.24,Mobile Pay (UPI/Apple Pay)
+2026-03-28,21:09,Los Angeles Plaza,Toys & Games,41.47,Mobile Pay (UPI/Apple Pay)
+2026-03-17,16:15,Miami Beachwalk,Sports & Outdoors,359.75,Cash
+2026-01-17,10:25,Denver Galleria,Clothing & Apparel,202.70,Mobile Pay (UPI/Apple Pay)
+2026-03-26,21:01,Austin Tech-Ridge,Home & Kitchen,143.19,Mobile Pay (UPI/Apple Pay)
+2026-02-19,15:29,New York Flagship,Toys & Games,28.78,Debit Card
+2026-03-25,15:44,Dallas Metro,Groceries & Food,151.39,Cash
+2026-01-13,15:34,Los Angeles Plaza,Books & Media,41.81,Mobile Pay (UPI/Apple Pay)
+2026-02-22,16:02,New York Flagship,Groceries & Food,132.81,Mobile Pay (UPI/Apple Pay)
+2026-02-04,09:29,Denver Galleria,Health & Beauty,25.63,Credit Card
+2026-03-08,09:53,Phoenix Desert-Ridge,Electronics,886.55,Debit Card
+2026-02-18,21:52,Miami Beachwalk,Groceries & Food,141.70,Credit Card
+2026-02-21,19:54,Los Angeles Plaza,Electronics,233.83,Credit Card
+2026-03-17,12:53,San Francisco Downtown,Health & Beauty,20.26,Cash
+2026-03-18,17:59,Dallas Metro,Books & Media,78.30,Cash
+2026-02-18,09:41,Denver Galleria,Books & Media,38.46,Mobile Pay (UPI/Apple Pay)
+2026-01-29,13:37,Chicago Central,Sports & Outdoors,103.51,Mobile Pay (UPI/Apple Pay)
+2026-01-25,13:39,New York Flagship,Sports & Outdoors,290.50,Debit Card
+2026-02-12,12:37,Chicago Central,Groceries & Food,109.77,Mobile Pay (UPI/Apple Pay)
+2026-02-13,12:12,Dallas Metro,Health & Beauty,15.55,Credit Card
+2026-03-02,15:31,Los Angeles Plaza,Home & Kitchen,188.56,Cash
+2026-03-05,11:05,Austin Tech-Ridge,Toys & Games,81.27,Credit Card
+2026-01-21,21:33,Los Angeles Plaza,Health & Beauty,41.84,Mobile Pay (UPI/Apple Pay)
+2026-01-07,12:31,Atlanta Midtown,Clothing & Apparel,187.67,Credit Card
+2026-02-18,14:51,Seattle Pike-Place,Books & Media,32.50,Debit Card
+2026-01-19,13:37,Seattle Pike-Place,Clothing & Apparel,110.40,Mobile Pay (UPI/Apple Pay)
+2026-03-04,10:19,Chicago Central,Electronics,596.53,Cash
+2026-03-21,21:14,Atlanta Midtown,Books & Media,36.09,Debit Card
+2026-02-15,12:11,Seattle Pike-Place,Sports & Outdoors,298.62,Debit Card
+2026-03-28,16:47,Boston Commons,Groceries & Food,30.96,Mobile Pay (UPI/Apple Pay)
+2026-03-04,17:03,San Francisco Downtown,Electronics,833.71,Mobile Pay (UPI/Apple Pay)
+2026-01-18,10:55,Miami Beachwalk,Home & Kitchen,199.25,Mobile Pay (UPI/Apple Pay)
+2026-02-07,16:03,Austin Tech-Ridge,Health & Beauty,42.93,Credit Card
+2026-03-08,20:20,Denver Galleria,Electronics,163.98,Cash
+2026-01-09,10:35,New York Flagship,Clothing & Apparel,25.91,Debit Card
+2026-02-08,09:02,Austin Tech-Ridge,Electronics,1247.30,Debit Card
+2026-02-04,14:08,Miami Beachwalk,Books & Media,8.70,Credit Card
+2026-03-11,11:47,Atlanta Midtown,Groceries & Food,82.02,Cash
+2026-02-04,10:19,Atlanta Midtown,Home & Kitchen,123.63,Credit Card
+2026-02-15,20:43,Atlanta Midtown,Home & Kitchen,384.33,Mobile Pay (UPI/Apple Pay)
+2026-01-11,09:45,Chicago Central,Sports & Outdoors,77.06,Debit Card
+2026-02-03,18:27,Dallas Metro,Toys & Games,74.19,Mobile Pay (UPI/Apple Pay)
+2026-02-26,09:33,Dallas Metro,Toys & Games,57.66,Mobile Pay (UPI/Apple Pay)
+2026-03-30,10:17,Atlanta Midtown,Health & Beauty,70.29,Credit Card
+2026-02-14,14:37,Atlanta Midtown,Toys & Games,86.58,Debit Card
+2026-03-10,09:46,Atlanta Midtown,Books & Media,79.19,Cash
+2026-01-25,16:52,Austin Tech-Ridge,Books & Media,51.11,Mobile Pay (UPI/Apple Pay)
+2026-02-14,17:56,Austin Tech-Ridge,Books & Media,64.81,Cash
+2026-01-05,20:36,Seattle Pike-Place,Health & Beauty,72.77,Debit Card
+2026-03-03,15:20,Denver Galleria,Electronics,1006.46,Mobile Pay (UPI/Apple Pay)
+2026-03-10,11:58,San Francisco Downtown,Groceries & Food,25.26,Credit Card
+2026-03-16,21:55,Miami Beachwalk,Sports & Outdoors,255.39,Mobile Pay (UPI/Apple Pay)
+2026-01-22,18:19,Atlanta Midtown,Sports & Outdoors,45.64,Credit Card
+2026-02-25,15:27,Los Angeles Plaza,Home & Kitchen,224.05,Mobile Pay (UPI/Apple Pay)
+2026-03-18,20:49,Atlanta Midtown,Home & Kitchen,316.62,Credit Card
+2026-01-27,20:40,San Francisco Downtown,Clothing & Apparel,29.97,Credit Card
+2026-03-23,20:45,Seattle Pike-Place,Health & Beauty,123.10,Debit Card
+2026-02-04,15:18,Austin Tech-Ridge,Groceries & Food,148.70,Credit Card
+2026-03-21,17:14,Los Angeles Plaza,Toys & Games,114.53,Debit Card
+2026-02-08,21:20,Seattle Pike-Place,Home & Kitchen,98.12,Debit Card
+2026-01-18,15:33,Los Angeles Plaza,Electronics,817.04,Credit Card
+2026-03-03,13:29,Chicago Central,Home & Kitchen,217.35,Credit Card
+2026-02-17,12:52,Denver Galleria,Sports & Outdoors,148.31,Cash
+2026-01-22,10:51,Atlanta Midtown,Health & Beauty,139.05,Mobile Pay (UPI/Apple Pay)
+2026-03-19,20:54,Austin Tech-Ridge,Electronics,62.82,Credit Card
+2026-03-05,09:31,Miami Beachwalk,Groceries & Food,30.86,Cash
+2026-03-09,17:40,Miami Beachwalk,Electronics,1207.10,Mobile Pay (UPI/Apple Pay)
+2026-02-28,11:23,Austin Tech-Ridge,Health & Beauty,139.42,Mobile Pay (UPI/Apple Pay)
+2026-01-16,11:06,Seattle Pike-Place,Home & Kitchen,27.15,Credit Card
+2026-03-07,16:04,Dallas Metro,Home & Kitchen,101.53,Credit Card
+2026-01-04,21:30,Austin Tech-Ridge,Health & Beauty,73.74,Mobile Pay (UPI/Apple Pay)
+2026-02-05,10:46,Atlanta Midtown,Books & Media,79.19,Debit Card
+2026-02-15,21:47,Miami Beachwalk,Clothing & Apparel,143.17,Mobile Pay (UPI/Apple Pay)
+2026-02-17,16:36,Boston Commons,Groceries & Food,65.59,Cash
+2026-02-20,09:14,Austin Tech-Ridge,Books & Media,30.70,Cash
+2026-02-07,19:51,Chicago Central,Electronics,241.44,Cash
+2026-02-23,16:00,Phoenix Desert-Ridge,Groceries & Food,39.24,Mobile Pay (UPI/Apple Pay)
+2026-03-07,09:13,Austin Tech-Ridge,Toys & Games,73.06,Mobile Pay (UPI/Apple Pay)
+2026-02-10,19:41,Los Angeles Plaza,Home & Kitchen,361.08,Credit Card
+2026-03-05,09:26,San Francisco Downtown,Groceries & Food,79.12,Cash
+2026-02-02,13:44,Boston Commons,Electronics,115.63,Cash
+2026-01-18,13:52,Atlanta Midtown,Home & Kitchen,264.15,Cash
+2026-03-10,19:44,Miami Beachwalk,Home & Kitchen,39.56,Credit Card
+2026-01-22,14:40,New York Flagship,Sports & Outdoors,243.49,Mobile Pay (UPI/Apple Pay)
+2026-02-01,18:03,Seattle Pike-Place,Health & Beauty,109.75,Cash
+2026-01-25,10:18,Austin Tech-Ridge,Home & Kitchen,210.95,Debit Card
+2026-03-10,16:19,Dallas Metro,Electronics,83.48,Cash
+2026-03-15,15:43,Austin Tech-Ridge,Electronics,704.98,Credit Card
+2026-01-05,13:39,Phoenix Desert-Ridge,Groceries & Food,121.64,Debit Card
+2026-01-10,14:53,Seattle Pike-Place,Sports & Outdoors,286.53,Cash
+2026-02-07,15:30,Seattle Pike-Place,Home & Kitchen,377.18,Credit Card
+2026-03-20,17:19,New York Flagship,Sports & Outdoors,187.35,Credit Card
+2026-01-09,20:47,Atlanta Midtown,Electronics,220.33,Mobile Pay (UPI/Apple Pay)
+2026-02-23,09:56,Chicago Central,Electronics,135.09,Credit Card
+2026-01-14,11:50,Seattle Pike-Place,Books & Media,50.63,Credit Card
+2026-02-02,20:13,Denver Galleria,Toys & Games,71.10,Debit Card
+2026-02-20,10:29,Phoenix Desert-Ridge,Electronics,1218.60,Mobile Pay (UPI/Apple Pay)
+2026-03-24,18:07,New York Flagship,Groceries & Food,58.12,Cash
+2026-01-18,18:05,Dallas Metro,Toys & Games,29.79,Mobile Pay (UPI/Apple Pay)
+2026-01-01,15:02,Boston Commons,Health & Beauty,64.75,Mobile Pay (UPI/Apple Pay)
+2026-01-27,10:18,San Francisco Downtown,Books & Media,11.60,Debit Card
+2026-03-16,20:23,San Francisco Downtown,Sports & Outdoors,76.91,Mobile Pay (UPI/Apple Pay)
+2026-03-12,11:50,Denver Galleria,Toys & Games,90.45,Cash
+2026-02-20,10:33,Phoenix Desert-Ridge,Clothing & Apparel,125.01,Cash
+2026-02-01,11:49,San Francisco Downtown,Groceries & Food,153.65,Debit Card
+2026-02-07,20:58,Chicago Central,Toys & Games,118.44,Debit Card
+2026-02-16,20:47,Los Angeles Plaza,Health & Beauty,112.78,Credit Card
+2026-02-04,15:45,New York Flagship,Health & Beauty,36.19,Mobile Pay (UPI/Apple Pay)
+2026-01-06,10:17,Boston Commons,Sports & Outdoors,141.78,Cash
+2026-01-09,10:22,Denver Galleria,Groceries & Food,78.47,Credit Card
+2026-01-19,11:11,Seattle Pike-Place,Sports & Outdoors,349.47,Debit Card
+2026-01-09,11:58,Chicago Central,Sports & Outdoors,188.00,Credit Card
+2026-01-01,21:29,Phoenix Desert-Ridge,Groceries & Food,51.26,Mobile Pay (UPI/Apple Pay)
+2026-02-23,13:51,San Francisco Downtown,Toys & Games,44.25,Credit Card
+2026-01-24,18:21,San Francisco Downtown,Groceries & Food,13.35,Mobile Pay (UPI/Apple Pay)
+2026-02-08,12:12,Miami Beachwalk,Books & Media,79.71,Debit Card
+2026-01-06,16:48,Chicago Central,Groceries & Food,118.01,Debit Card
+2026-01-09,17:26,Denver Galleria,Sports & Outdoors,158.28,Debit Card
+2026-02-21,19:05,Chicago Central,Groceries & Food,36.42,Debit Card
+2026-02-26,14:49,New York Flagship,Sports & Outdoors,105.40,Debit Card
+2026-03-06,19:09,Atlanta Midtown,Health & Beauty,128.02,Debit Card
+2026-03-25,20:34,Denver Galleria,Groceries & Food,110.50,Cash
+2026-02-27,12:35,Denver Galleria,Toys & Games,23.17,Cash
+2026-02-19,19:21,Austin Tech-Ridge,Clothing & Apparel,129.68,Debit Card
+2026-02-11,21:01,Phoenix Desert-Ridge,Groceries & Food,47.21,Mobile Pay (UPI/Apple Pay)
+2026-03-25,10:45,San Francisco Downtown,Sports & Outdoors,290.21,Credit Card
+2026-02-16,11:50,Los Angeles Plaza,Groceries & Food,41.09,Mobile Pay (UPI/Apple Pay)
+2026-02-14,14:11,Phoenix Desert-Ridge,Groceries & Food,58.95,Cash
+2026-01-06,09:13,Seattle Pike-Place,Home & Kitchen,400.91,Credit Card
+2026-02-10,16:01,Los Angeles Plaza,Groceries & Food,148.30,Mobile Pay (UPI/Apple Pay)
+2026-02-13,21:40,Los Angeles Plaza,Sports & Outdoors,70.12,Debit Card
+2026-01-04,21:41,Chicago Central,Health & Beauty,21.64,Cash
+2026-01-11,15:43,Seattle Pike-Place,Toys & Games,14.69,Debit Card
+2026-02-18,11:52,Seattle Pike-Place,Home & Kitchen,328.33,Cash
+2026-01-14,15:51,Dallas Metro,Home & Kitchen,256.97,Debit Card
+2026-03-06,11:51,Seattle Pike-Place,Groceries & Food,81.68,Credit Card
+2026-02-28,19:08,Denver Galleria,Books & Media,32.97,Credit Card
+2026-01-03,21:34,Boston Commons,Electronics,588.97,Cash
+2026-02-21,09:46,Denver Galleria,Clothing & Apparel,80.01,Mobile Pay (UPI/Apple Pay)
+2026-03-24,20:04,Dallas Metro,Electronics,309.01,Mobile Pay (UPI/Apple Pay)
+2026-03-25,13:03,Austin Tech-Ridge,Home & Kitchen,394.14,Credit Card
+2026-02-17,11:10,Austin Tech-Ridge,Groceries & Food,34.96,Credit Card
+2026-02-03,19:28,Seattle Pike-Place,Groceries & Food,126.70,Debit Card
+2026-03-25,16:48,New York Flagship,Clothing & Apparel,118.03,Credit Card
+2026-02-01,21:11,Austin Tech-Ridge,Toys & Games,99.04,Mobile Pay (UPI/Apple Pay)
+2026-03-08,21:27,San Francisco Downtown,Clothing & Apparel,79.38,Cash
+2026-02-13,13:26,New York Flagship,Home & Kitchen,103.16,Debit Card
+2026-01-06,19:38,Miami Beachwalk,Toys & Games,36.58,Credit Card
+2026-03-22,13:50,Chicago Central,Books & Media,30.29,Credit Card
+2026-03-22,21:13,Phoenix Desert-Ridge,Health & Beauty,108.18,Mobile Pay (UPI/Apple Pay)
+2026-01-15,12:19,San Francisco Downtown,Home & Kitchen,286.01,Mobile Pay (UPI/Apple Pay)
+2026-01-23,15:38,Seattle Pike-Place,Clothing & Apparel,46.01,Debit Card
+2026-01-19,09:31,New York Flagship,Toys & Games,108.91,Cash
+2026-02-12,11:57,Los Angeles Plaza,Groceries & Food,134.88,Cash
+2026-02-13,16:50,Miami Beachwalk,Home & Kitchen,106.37,Credit Card
+2026-03-03,11:53,Los Angeles Plaza,Sports & Outdoors,308.83,Cash
+2026-02-01,20:25,New York Flagship,Home & Kitchen,90.25,Mobile Pay (UPI/Apple Pay)
+2026-02-12,13:20,Atlanta Midtown,Groceries & Food,159.29,Credit Card
+2026-03-16,09:38,Chicago Central,Toys & Games,39.04,Debit Card
+2026-01-01,19:14,Chicago Central,Home & Kitchen,185.91,Cash
+2026-03-01,15:38,Los Angeles Plaza,Books & Media,49.01,Mobile Pay (UPI/Apple Pay)
+2026-03-30,21:35,Chicago Central,Books & Media,41.25,Debit Card
+2026-02-17,12:14,New York Flagship,Books & Media,67.15,Cash
+2026-02-24,09:57,Atlanta Midtown,Home & Kitchen,31.76,Debit Card
+2026-02-21,14:52,Los Angeles Plaza,Health & Beauty,60.32,Cash
+2026-02-21,10:33,Austin Tech-Ridge,Health & Beauty,134.31,Cash
+2026-03-14,20:09,Phoenix Desert-Ridge,Clothing & Apparel,89.32,Credit Card
+2026-01-09,15:20,New York Flagship,Health & Beauty,139.11,Debit Card
+2026-03-26,20:54,Miami Beachwalk,Health & Beauty,74.77,Cash
+2026-01-17,13:02,Denver Galleria,Clothing & Apparel,55.54,Cash
+2026-03-28,21:40,Miami Beachwalk,Books & Media,77.01,Debit Card
+2026-03-15,15:06,Austin Tech-Ridge,Clothing & Apparel,206.41,Debit Card
+2026-01-13,15:35,Dallas Metro,Groceries & Food,70.77,Debit Card
+2026-01-12,10:08,San Francisco Downtown,Health & Beauty,66.03,Mobile Pay (UPI/Apple Pay)
+2026-02-11,16:42,Seattle Pike-Place,Toys & Games,41.31,Credit Card
+2026-02-10,13:23,Dallas Metro,Toys & Games,118.57,Debit Card
+2026-02-12,09:51,Atlanta Midtown,Groceries & Food,42.08,Cash
+2026-03-17,20:16,Austin Tech-Ridge,Electronics,981.81,Credit Card
+2026-01-20,09:22,San Francisco Downtown,Sports & Outdoors,335.93,Credit Card
+2026-03-06,09:27,Denver Galleria,Books & Media,8.86,Mobile Pay (UPI/Apple Pay)
+2026-02-28,09:23,New York Flagship,Sports & Outdoors,60.24,Cash
+2026-03-08,13:14,Seattle Pike-Place,Clothing & Apparel,141.39,Credit Card
+2026-03-14,09:33,San Francisco Downtown,Health & Beauty,119.87,Mobile Pay (UPI/Apple Pay)
+2026-03-02,09:16,Boston Commons,Sports & Outdoors,173.41,Debit Card
+2026-01-23,20:58,New York Flagship,Groceries & Food,135.69,Cash
+2026-02-10,14:54,Chicago Central,Books & Media,32.97,Mobile Pay (UPI/Apple Pay)
+2026-02-22,16:46,San Francisco Downtown,Sports & Outdoors,157.65,Debit Card
+2026-02-12,14:56,Denver Galleria,Toys & Games,86.48,Mobile Pay (UPI/Apple Pay)
+2026-01-09,19:34,Phoenix Desert-Ridge,Toys & Games,84.22,Debit Card
+2026-01-16,13:08,New York Flagship,Electronics,822.16,Credit Card
+2026-03-29,14:20,Phoenix Desert-Ridge,Books & Media,49.87,Cash
+2026-02-08,19:22,Austin Tech-Ridge,Books & Media,28.50,Mobile Pay (UPI/Apple Pay)
+2026-03-07,09:05,Atlanta Midtown,Groceries & Food,131.82,Debit Card
+2026-01-16,11:04,Miami Beachwalk,Books & Media,82.16,Cash
+2026-01-03,13:19,New York Flagship,Home & Kitchen,56.07,Credit Card
+2026-03-16,14:24,Miami Beachwalk,Sports & Outdoors,216.82,Debit Card
+2026-02-25,16:01,Denver Galleria,Health & Beauty,43.73,Debit Card
+2026-01-15,17:24,New York Flagship,Sports & Outdoors,266.66,Cash
+2026-02-26,17:00,Los Angeles Plaza,Toys & Games,97.06,Debit Card
+2026-03-20,15:54,New York Flagship,Sports & Outdoors,33.40,Mobile Pay (UPI/Apple Pay)
+2026-03-06,12:21,Atlanta Midtown,Toys & Games,33.69,Mobile Pay (UPI/Apple Pay)
+2026-01-22,20:20,Los Angeles Plaza,Sports & Outdoors,200.76,Cash
+2026-01-23,12:12,Austin Tech-Ridge,Books & Media,53.41,Debit Card
+2026-03-07,09:44,Boston Commons,Groceries & Food,34.86,Credit Card
+2026-01-02,20:38,San Francisco Downtown,Health & Beauty,62.60,Debit Card
+2026-01-08,10:05,Los Angeles Plaza,Health & Beauty,132.69,Debit Card
